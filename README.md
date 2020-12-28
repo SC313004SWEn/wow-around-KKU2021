@@ -1,10 +1,10 @@
-#wow-around-KKU2021
+# wow-around-KKU2021
 The purpose of this repository is for students of the Software Engineering course in 2021 to get themselves familiar with concepts of git and practice some basic commands using GitHub. They should learn to collaborate on the same project as well.
 
 ***Important note***
 Make sure that you to give your GitHub username or registered email to [me](mailto:chitsutha@kku.ac.th) or contact your TA (Maprang, Punch, and Meen). We will send you an invitation to join as a collaborator of this repository
 
-##Instruction
+## Instruction
 1. Clone this repository to your machine
 2. Add interesting and up-to-date information around KKU (e.g., food, cafe, activities, selfie spots, public events, etc.) to the funguide.md
 3. Feel free to add more categories and fun guide for people visiting KKU (but keep in mind that this is a public repository. So, inapproproate content is not welcome here.)
