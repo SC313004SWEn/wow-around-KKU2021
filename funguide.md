@@ -47,7 +47,7 @@ Here are sporting locations and activities for those who like to sweat.
 
 #### 1. สระพลาสติก
 
-<img src="media/plasticpool.jpg" width="500"/>
+<img src="images/plasticpool.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:* [สายวิ่งบันเทิง](https://web.facebook.com/EnjoyToRun/photos/สระพลาสติก-มขอนแก่นความเป็นมาสร้างขึ้นในปี-พศ-2530-เป็นส่วนหนึ่งของสวนร่มเกล้ากั/1801772276798349/?_rdc=1&_rdr)
 
