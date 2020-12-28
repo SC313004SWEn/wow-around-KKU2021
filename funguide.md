@@ -6,7 +6,7 @@ Visiting KKU for the first time? This guide will give you the most enjoyable way
 ## Food :rice: :ramen:
 Best places for all kinds of food.
 
-#### 1. โรงอาหารชาย มข.
+#### 1. ศุนย์อาหารและบริการ 2 มข. (โรงชาย)
 ถูกและดี มีอยู่จริง!! มีอาหารให้เลือกหลากหลาย ทั้งข้าวราดแกง อาหารตามสั่ง ก๋วยเตี๋่ยว ผลไม้ และขนมหวาน ตั้งแต่ราคาหลักสิบถึงหลักร้อย
 Location: เยื้องสนามกีฬากลาง มข.
 Hours: ตลอดเวลา
@@ -17,7 +17,10 @@ Here are the best places where you can enjoy your a cup of coffee and delicious 
 
 ## Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
+#### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
 
+รั้วสีส้มสีสดใส มีทางทอดยาว เหมาะกับการถ่ายภาพ Portrait มากๆ รายการทีวีก็เคยมาถ่ายจุดนี้ มาเช้าๆ รับรอง Selfie ออกมาสวยแน่นอน
+Location: ด้านข้างอาดารวิทยวิภาส คณะวิทยาศาสตร์ ฝั่งติดคณะมนุษยศาสตร์และสังคมศาสตร์
 
 ## Free Stuffs :moneybag: :innocent:
 On budget? No problem. There are free stuffs and events for you to enjoy around KKU.
