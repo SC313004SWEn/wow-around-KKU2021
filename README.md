@@ -3,7 +3,7 @@ The purpose of this repository is for students of the Software Engineering cours
 
 ***Important note***
 
-Make sure that you to give your GitHub username or registered email to [me](mailto:chitsutha@kku.ac.th) or contact your TA (Maprang, Punch, and Meen). We will send you an invitation to join as a collaborator of this repository
+Make sure that you to give your GitHub username or registered email to [me](mailto:chitsutha@kku.ac.th) or contact your TA ([Maprang](mailto:natthida.w@kkumail.com), [Punch](mailto:peeradon_s@kkumail.com), and [Meen](mailto:nameentra@kkumail.com)). We will send you an invitation to join as a collaborator of this repository
 
 ## Instructions
 1. Clone this repository to your machine
