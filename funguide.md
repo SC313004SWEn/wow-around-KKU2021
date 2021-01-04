@@ -162,7 +162,7 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 
 #### 1. UKKU shop
 
-<img src="images/kkushop.png" width="500"/>
+<img src="images/kkushop.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [Niran Kasri](https://www.google.com/maps/uv?pb=!1s0x31228a8dc2aa369d%3A0x39c8c16e13614e2f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNRybF2QKjBGTx8DFjnVc335zD1HQmsfqZBpfqE%3Dw120-h160-k-no!5skku%20shop%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipN2asbYsndj0LoKfEKHGyoVNmLdZKTRyccfFpGH&hl=en&sa=X&ved=2ahUKEwi24vac6IHuAhW0guYKHYw1DycQoiowDXoECBsQAw)
 
