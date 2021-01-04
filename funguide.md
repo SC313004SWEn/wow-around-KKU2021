@@ -102,6 +102,15 @@ Here are sporting locations and activities for those who like to sweat.
 ## <a name="shopping"></a> Shopping :dress: :gift:
 Looking for souvenirs or buying the essestials? There are many places for you to go. 
 
+### 1. ตลาดเปิดท้ายหอกาญฯ
+
+<img src="images/kkuFleaMarket.png" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [Wongnai](https://www.wongnai.com/trips/night-market-khonkaen-university)
+
+> เดินเล่นเช็กอินเเหล่งละลายทรัพย์ของหนุ่มสาวชาวขอนแก่น ช้อปเสื้อผ้าของมือสองแบบจุก ๆ ฟินร้านเด็ดเต็มอิ่ม มาที่เดียวครบ! “ตลาดเปิดท้ายมหาวิทยาลัยขอนแก่น”
+> พิกัด : ตลาดเปิดท้ายตั้งอยู่บริเวณลานจอดรถด้านศูนย์ประชุมอเนกประสงค์กาญจนาภิเษก มีเฉพาะ วันศุกร์-อาทิตย์ เวลา17.00-22.00 น. (ไม่ได้มีทุกอาทิตย์)
+
 
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
