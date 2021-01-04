@@ -63,3 +63,12 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
 
+#### 1. บึงสีฐาน
+
+<img src="srithanBySupaveeKK.jpg" width="500"/>
+
+>   บึงสีฐานเป็นบึงน้ำจืดขนาดเล็ก ที่มีความยาวรอบบึงประมาณ 3 กิโลเมตร เป็นบึงที่อยู่ภายในมหาวิทยาลัยขอนแก่น ฝั่งประตูสีฐานติดกับถนนมะลิวัลย์  และอยู่ติดกับศูนย์ประชุมเอนกประสงค์กาญจนาภิเษก ซึ่งเป็นที่นิยมสำหรับบุตลากรและนักศึกษามหาวิทยาลัยขอนแก่นมาก ส่วนใหญ่นั้นมักจะมาผักผ่อนหย่อนใจ ให้อาหารปลา หรือพาสัตว์เลี้ยงมาเดินเล่นที่บึงแห่งนี้
+
+เวลาเปิด-ปิด : เวลาเปิดไม่แน่ชัด-ปิดเวลา 23.00
+
+
