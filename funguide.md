@@ -24,6 +24,8 @@ Best places for all kinds of food.
 #### 2. ศูนย์อาหารและบริการ 1 (คอมเพล็กซ์)
 <img src="images/complexFood.jpg" width="500"/>
 
+<img src="images/complexFood2.jpg" width="500"/>
+
 *อ้างอิงภาพจาก:* [ศุนย์บริหารจัดการทรัพย์สินมข.](http://www.asset.kku.ac.th/2015/complex1.php)
 
  ประเภทที่ให้บริการ
