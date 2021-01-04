@@ -190,7 +190,7 @@ Did you know that KKU has many parks and wild life? Let's get out there for fres
 
 *อ้างอิงภาพจาก:* [LibraryKUUFanpage](https://www.facebook.com/kku.archives/photos/p.1580748555392244/1580748555392244/?type=3)
 
-<img src="images/libkku2.jpg" width="00"/>
+<img src="images/libkku2.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [LibraryKUUFanpage](https://www.facebook.com/kku.archives/photos/p.1580748555392244/1580748555392244/?type=3)
 
