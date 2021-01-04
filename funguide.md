@@ -21,6 +21,23 @@ Best places for all kinds of food.
 พิกัด: เยื้องสนามกีฬากลาง มข.
 > เวลาเปิด-ปิด: ตลอดเวลา
 
+#### 2. ศูนย์อาหารและบริการ 1 (คอมเพล็กซ์)
+<img src="images/complexFood.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [ศุนย์บริหารจัดการทรัพย์สินมข.](http://www.asset.kku.ac.th/2015/complex1.php)
+
+ ประเภทที่ให้บริการ
+- ร้านอาหารสวัสดิการ จำนวน 26 ร้าน
+- ร้านอาหาร เครื่องดื่ม Cafe'
+- สำนักงานธนาคารไทยพาณิชย์ ธนาคารกสิกรไทย ธนาคารกรุงไทย ธนาคารกรุงศรีอยุธย
+- ร้านสะดวกซื้อ(7 - ELEVEN)
+- ศูนย์หนังสือ จำนวน 2 ร้าน
+- ร้านให้บริการเสริมความงาม ตัดผมหญิง/ชาย/สปา
+- ร้านทั่วไป
+    (เช่น : ร้านขายยา /กิ๊ปซ๊อป / ถ่ายเอกสาร / เครื่องเขียน / อปกรณ์ไอที และคอมพิวเตอร์ / การศึกษาต่อต่างประเทศ / โรงเรียนกวดวิชา และสอนพิเศษ/ ร้านจำหน่ายตั๋วการโดยสารเครื่องบิน / อุปกรณ์ไฟฟ้า / ไปรษณีย์ )
+- บูธชั่วคราว
+    (เสื้อผ้า / กิ๊ฟช้อป / บริการตัดเย็บ / ซ่อมนาฬิกา / เติมเงินและซิมโทรศัพท์มือถือ /เครื่องดื่มและขนมขบเคี้ยว)
+- ตู้ ATM   (ไทยพาณิชย์, กรุงไทย , กสิกร , กรุงเทพ)
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
@@ -37,6 +54,30 @@ Love to impress you Instragram followers? Here are the places where you can take
 ## <a name="freestuff"></a>Free Stuffs :moneybag: :innocent:
 On budget? No problem. There are free stuffs and events for you to enjoy around KKU.
 
+#### 1. KKU Smart Transit
+<img src="images/shuttlebuskku.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [KKUSmaratTransit](https://kst.kku.ac.th/)
+
+> รถ shuttle bus ใหม่มข. ย้ำนโยบาย Green & Smart Campus กับบริการที่จะทำให้ชีวิตคนมข.และประชาชนที่ใช้บริการต่างๆของมข.ดีขึ้น
+
+⇒ มีตารางเดินรถที่แน่นอน โดยติด GPS ที่รถทุกคัน
+
+⇒ แสดงเวลาถึงป้ายจอดแบบ realtime มีจอ led ทุกสถานีจอด และผู้ใช้ดูได้ผ่านแอปพลิเคชัน
+
+⇒ รถประกอบขึ้นใหม่เอี่ยม
+
+⇒ มี wifi ฟรี
+
+⇒ รูปแบบทันสมัย แบบ low floor
+
+⇒ เป็นรถปรับอากาศ
+
+⇒ มีการวัดสถิติผู้ใช้บริการผ่านเทคโนโลยี rfid ซึ่งจะทำให้ทราบความต้องการที่แท้จริง
+
+⇒ ใช้ก๊าส NGV ช่วยชาติลดพลังงาน
+
+⇒ ที่สำคัญฟรีสำหรับทุกคน ทั้งชาวมข.และประชาชนทั่วไป
 
 ## <a name="event"></a>Public Events :dancer: :dancers:
 KKU is full of public events. Some are free. Some are not. Here are the list.
