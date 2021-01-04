@@ -101,7 +101,7 @@ Love to impress you Instragram followers? Here are the places where you can take
 On budget? No problem. There are free stuffs and events for you to enjoy around KKU.
 
 #### 1. KKU Smart Transit
-<img src="images/shuttlebuskku.png" width="500"/>
+<img src="images/shuttlebuskku.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:* [KKUSmaratTransit](https://kst.kku.ac.th/)
 
