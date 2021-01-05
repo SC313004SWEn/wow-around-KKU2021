@@ -52,6 +52,13 @@ Here are the best places where you can enjoy your a cup of coffee and delicious 
 
 > ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
 > ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
+#### 2. Kojimori Matcha
+
+<img src="images/koji_1.jpg" width="500"/>
+<img src="images/koji_2.jpg" width="500"/>
+<img src="images/koji_3.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* [Wongnai.com](https://www.wongnai.com/restaurants/339452gD-kojimori)
+>คาเฟ่สำหรับคนรักชาเขียวมัทฉะเปิด 11.00 - 21.00 น.
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
@@ -168,6 +175,23 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 > เป็นตลาดที่มีความครบเครื่อง ไม่ว่าจะเป็น  อาหาร แฟชั่น เสื้อผ้า เครื่องสำอาง อยู่ที่นี้มีหมด เรียกได้ว่าจบในที่เดียว
 > พิกัด : ตลาดมอดินแดงตั้งอยู่บริเวณหลังศุนย์อาหารและบริการ(คอมเพล็ก)เปิดทุกวัน เวลา17.00-21.30 น. 
 
+### 2. ตลาดโนนม่วง 
+
+<img src="images/Nongmeang.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [Mongfoto](https://www.youtube.com/watch?v=yIEfThaK2ds)
+
+> เป็นตลาดสำหรับหาอาหาร มีอาหารลากหลายแนวให้เลือกยกตัวอย่างเช่น ส้มตำ ลาบเป็ด ลาบไก่ และผักผลไม้ต่างๆที่ชาวบ้านโนนม่วงปลูกเองแล้วนำมาขาย พ่อค้าแม่ค้าเป็นกันเอง เหมาะสำหรับคนหิวที่อยากกินอาหารต่างๆ
+> พิกัด : ตลาดโนนม่วงตั้งอยู่บริเวณ4แยกโนนม่วง (ซอยข้างโลตสเอ็กเพรส) เปิดทุกวัน เวลา16.00-20.30 น. 
+
+### 3. ตลาดมอดินแดง 
+
+<img src="images/mordindaeng.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [dek-d](https://www.dek-d.com/board/view/3412994/)
+
+> เป็นตลาดที่มีความครบเครื่อง ไม่ว่าจะเป็น  อาหาร แฟชั่น เสื้อผ้า เครื่องสำอาง อยู่ที่นี้มีหมด เรียกได้ว่าจบในที่เดียว
+> พิกัด : ตลาดมอดินแดงตั้งอยู่บริเวณหลังศุนย์อาหารและบริการ(คอมเพล็ก)เปิดทุกวัน เวลา17.00-21.30 น. 
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
 
