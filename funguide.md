@@ -52,6 +52,13 @@ Here are the best places where you can enjoy your a cup of coffee and delicious 
 
 > ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
 > ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
+#### 2. Kojimori Matcha
+
+<img src="images/koji_1.jpg" width="500"/>
+<img src="images/koji_2.jpg" width="500"/>
+<img src="images/koji_3.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* [Wongnai.com](https://www.wongnai.com/restaurants/339452gD-kojimori)
+>คาเฟ่สำหรับคนรักชาเขียวมัทฉะเปิด 11.00 - 21.00 น.
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
