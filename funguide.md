@@ -45,11 +45,14 @@ Best places for all kinds of food.
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
 <img src="images/CoffeeDerLar.jpg" width="500"/>
-> ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
-> ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
+
 <img src="images/CoffeeDerLar2.jpg" width="500"/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d956.4925512790026!2d102.8253618292323!3d16.477046285319663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTbCsDI4JzM3LjQiTiAxMDLCsDQ5JzMzLjMiRQ!5e0!3m2!1sen!2sth!4v1609859524232!5m2!1sen!2sth" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+*อ้างอิงข้อมูลและภาพจาก:* [Coffee Der Lar Fanpage](https://www.facebook.com/coffeederlakk)
+
+> ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
+> ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
