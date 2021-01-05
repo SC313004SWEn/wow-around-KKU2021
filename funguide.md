@@ -43,6 +43,15 @@ Best places for all kinds of food.
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
+#### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
+<img src="images/CoffeeDerLar.jpg" width="500"/>
+
+<img src="images/CoffeeDerLar2.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [Coffee Der Lar Fanpage](https://www.facebook.com/coffeederlakk)
+
+> ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
+> ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
