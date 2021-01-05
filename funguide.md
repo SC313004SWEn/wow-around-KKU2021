@@ -1,5 +1,6 @@
 
 
+
 # Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
@@ -55,14 +56,22 @@ Here are the best places where you can enjoy your a cup of coffee and delicious 
 > ร้านกาแฟในมหาวิทยาลัยขอนแก่น ที่พิถีพิถันในเรื่องของการคัดเลือกเมล็ดกาแฟ อีกทั้งยังมีHomemade Bakery และเครื่องดื่มอื่นๆอีกมากมาย ตอบโจทย์ Lifestyle แบบคนเมือง ในราคาที่คุณดื่มได้ทุกวัน
 > ให้บริการ 8.00น. - 20.00น. โทร. 095-6466161
 #### 2. Kojimori Matcha
-
+> KOJIMORI MATCHA คนชอบชาเขียวต้องไม่พลาด ที่นี่ชาเขียวดี
+> วันนี้จะพาไปกินชาเขียวรสชาติเข้มข้น หอม หวาน มัน กับร้านที่ชื่อ KOJIMORI MATCHA ร้านชาเขียวเล็กๆ ที่บรรยากาศอบอุ่น ตกแต่งร้านได้อารมณ์เหมือนอยู่ญี่ปุ่นเลย ที่นี่ใช้ชาเขียวเกรดดี พรีเมียม ทำให้สัมผัสได้ถึงรสชาติชาเขียวที่แท้จริง บวกกับคนปรุงเข้าใจวัตถุดิบของตัวเองเป็นอย่างดี จึงทำให้ชาเขียวของที่ร้านถูกปากคนกินอย่างผม และใครที่ไม่ชอบหวานก็สามารถลดความหวาน หรือเลือกความหวานได้ตามใจด้วยเช่นกันครับ อ้อ มีไข่มุกด้วย
+*> **อ้างอิงจาก [khonkaenlink.info](https://forum.khonkaenlink.info/index.php?topic=17746360.0)***
+> 
 <img src="images/koji_1.jpg" width="500"/>
 <img src="images/koji_2.jpg" width="500"/>
 <img src="images/koji_3.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:*[Wongnai.com](https://www.wongnai.com/restaurants/339452gD-kojimori)
 
-> คาเฟ่สำหรับคนรักชาเขียวมัทฉะเปิด 11.00 - 21.00 น.
+**KOJIMORI MATCHA** 
+เปิดให้บริการ : 10.30 - 21.00 น. 
+โทรศัพท์ : 085 349 9612 
+พิกัด : ถนนอดุลยาราม ใกล้ร้านตัดผม "เสย" พิกัด 
+Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori Matcha](https://www.facebook.com/Kojimori-Matcha-463448217441872/) 
+การชำระเงิน : รับเงินสด , QR-Payment
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
