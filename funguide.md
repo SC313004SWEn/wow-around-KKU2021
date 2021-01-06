@@ -73,6 +73,11 @@ Here are the best places where you can enjoy your a cup of coffee and delicious 
 Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori Matcha](https://www.facebook.com/Kojimori-Matcha-463448217441872/) 
 การชำระเงิน : รับเงินสด , QR-Payment
 
+#### 3. Little Osaka
+Little Oska เป็นร้านอาหารญี่ปุ่นเกรดพรีเมี่ยม ด้วยวัตถุดิบอย่างดีส่งตรงมาจากญี่ปุ่นเลยทีเดียว มีบรรรยากาศรอบๆร้านตกแต่งด้วยกลิ่นอายจากญี่ปุ่นจริงๆ และอาณาบริเวณกว้างขวางมาก มีที่นั่งให้หลายโซน ทั้งในห้องแอร์เย็นสบาย หรือนั่งพื้นแบบโต๊ะญี่ปุ่น หรือจะนั่งเก้าอี้ชิลล์ด้านนอกยามเย็น และมีจุดเด่นที่มีเมนูอาหารญี่ปุ่นหลากหลายที่หาทานไม่ได้ง่ายนักในขอนแก่น แถมวัตถุดิบยังคุณภาพจัดเต็มนำเข้ามาโดยตรงเลย อาทิเช่น ซาซิมิกุ้งล็อบสเตอร์  ซาซิมิปลามาได Foie gras sushi เป็นต้น สิ่งหนึ่งที่สำคัญที่เป็นจุดเด่นของร้าน Little Oska คือ เป็นร้านอาหารญี่ปุ่นวัตถุดิบคุณภาพสูง แต่ขายในราคาไม่แพง เนื่องจากร้านตั้งอยู่ติดมหาวิทยาลัยขอนแก่น และลูกค้าสำคัญคือ นักศึกษา ทำให้ราคาอาหารที่ร้านนี้จะถูกว่าร้านอื่นๆ เพื่อตอบโจทย์นักศึกษาทั้งหลาย โดยแอดมินรู้สึกว่าในทุกๆเมนูอาหารของทางร้าน Little Osaka ในวันนี้ คุณภาพเกินราคาจริงๆครับ
+<img src="images/Little Osaka.jpg" width="500"/>
+<br>
+**อ้างอิงข้อมูลและภาพจาก:*[Little Osaka](http://www.indy-trip.com/aroundkku/)***
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
