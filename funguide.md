@@ -47,7 +47,7 @@ Best places for all kinds of food.
 <img src="images/Tangmo1.jpg" width="500"/>
 
 <img src="images/Tangmo2.jpeg" width="500"/>
-*อ้างอิงภาพจาก:* [khonkaenlink.info](http://www.asset.kku.ac.th/2015/complex1.php)
+*อ้างอิงภาพจาก:* [khonkaenlink.info](https://forum.khonkaenlink.info/index.php?topic=17651823.0)
 
 เป็นร้านส้มตำที่มีคนนิยมไปกิน มีเมนูให้เลือกมากมาย เช่น ส้มตำ ไก่ย่าง ลาบ อ่อม ต้มแซบต่างๆ รสชาติถูกปาก ราคาสบายกระเป๋า มีน้ำดื่ม ช้อน จาน บริการตัวเองให้ฟรี
 
