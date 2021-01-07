@@ -30,14 +30,6 @@ Best places for all kinds of food.
 <img src="images/complexFood2.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [ศุนย์บริหารจัดการทรัพย์สินมข.](https://forum.khonkaenlink.info/index.php)
-
-#### 3.ร้านส้มตำแตงโมแซบเวอร์ หลังมอ
-<img src="images/Tangmo1.jpg" width="500"/>
-
-<img src="images/Tangmo2.jpeg" width="500"/>
-
-*อ้างอิงภาพจาก:* [khonkaenlink.info](http://www.asset.kku.ac.th/2015/complex1.php)
-
  ประเภทที่ให้บริการ
 - ร้านอาหารสวัสดิการ จำนวน 26 ร้าน
 - ร้านอาหาร เครื่องดื่ม Cafe'
@@ -50,6 +42,14 @@ Best places for all kinds of food.
 - บูธชั่วคราว
     (เสื้อผ้า / กิ๊ฟช้อป / บริการตัดเย็บ / ซ่อมนาฬิกา / เติมเงินและซิมโทรศัพท์มือถือ /เครื่องดื่มและขนมขบเคี้ยว)
 - ตู้ ATM   (ไทยพาณิชย์, กรุงไทย , กสิกร , กรุงเทพ)
+
+#### 3.ร้านส้มตำแตงโมแซบเวอร์ หลังมอ
+<img src="images/Tangmo1.jpg" width="500"/>
+
+<img src="images/Tangmo2.jpeg" width="500"/>
+*อ้างอิงภาพจาก:* [khonkaenlink.info](http://www.asset.kku.ac.th/2015/complex1.php)
+
+เป็นร้านส้มตำที่มีคนนิยมไปกิน มีเมนูให้เลือกมากมาย เช่น ส้มตำ ไก่ย่าง ลาบ อ่อม ต้มแซบต่างๆ รสชาติถูกปาก ราคาสบายกระเป๋า มีน้ำดื่ม ช้อน จาน บริการตัวเองให้ฟรี
 
 ### 4.ร้านปลาวาฬใจดี
 <img src="images/Phawan.jpg" width="500"/>
