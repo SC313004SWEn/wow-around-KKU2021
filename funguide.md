@@ -113,7 +113,7 @@ Little Oska เป็นร้านอาหารญี่ปุ่นเก�
 - Facebook : Samannachan Café - สมานฉันท์ คาเฟ่
 
 #### 5. Chaban Café (ชบาน์ คาเฟ่)
-<img src="images/chaban.jfif" width="500"/>
+<img src="images/chaban.jpg" width="500"/>
 *อ้างอิงข้อมูลภาพจาก :*[facebook ชบาน์](https://www.facebook.com/Chaban.KKU/)
 
 >ชบาน์คาเฟ่ เป็นร้านที่มีเมนูทั่งอาหารคาวและอาหารหวาน โดยเป็นสถานที่นักศึกษาจะชอบมาอ่านหนังสือหรือติวหนังสือกันกัน และอาหารแต่ละอย่างก็มีราคาที่ถูกอีกด้วย
