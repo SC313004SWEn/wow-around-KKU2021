@@ -50,6 +50,17 @@ Best places for all kinds of food.
     (เสื้อผ้า / กิ๊ฟช้อป / บริการตัดเย็บ / ซ่อมนาฬิกา / เติมเงินและซิมโทรศัพท์มือถือ /เครื่องดื่มและขนมขบเคี้ยว)
 - ตู้ ATM   (ไทยพาณิชย์, กรุงไทย , กสิกร , กรุงเทพ)
 
+### 4.ร้านปลาวาฬใจดี
+<img src="images/Phawan.jpeg" width="500"/>
+*อ้างอิงภาพจาก:* [WhaleJaiDee.KKU](https://www.facebook.com/WhaleJaiDee.KKU)
+
+ประเภทที่ให้บริการ
+- ร้านอาหารบุฟเฟ่ต์ ไม่จำกัดเวลา
+- มีทั้งอาหารสดและอาหารทะเล
+
+### 4.FattyFox
+<img src="images/FattyFox.jpeg" width="500"/>
+*อ้างอิงภาพจาก:* [fattyfox.official](https://www.facebook.com/fattyfox.official)
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
