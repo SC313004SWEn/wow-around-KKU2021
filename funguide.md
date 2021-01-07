@@ -35,6 +35,7 @@ Best places for all kinds of food.
 <img src="images/Tangmo1.jpg" width="500"/>
 
 <img src="images/Tangmo2.jpeg" width="500"/>
+
 *อ้างอิงภาพจาก:* [khonkaenlink.info](http://www.asset.kku.ac.th/2015/complex1.php)
 
  ประเภทที่ให้บริการ
@@ -52,6 +53,7 @@ Best places for all kinds of food.
 
 ### 4.ร้านปลาวาฬใจดี
 <img src="images/Phawan.jpg" width="500"/>
+
 *อ้างอิงภาพจาก:* [WhaleJaiDee.KKU](https://www.facebook.com/WhaleJaiDee.KKU)
 
 ประเภทที่ให้บริการ
@@ -62,6 +64,14 @@ Best places for all kinds of food.
 <img src="images/FattyFox.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [fattyfox.official](https://www.facebook.com/fattyfox.official)
+
+ประเภทที่ให้บริการ
+- ร้านอาหารบุฟเฟ่ต์ จำกัดเวลา 2 ชั่วโมง
+- เหมาะสำหรับคนรักเนื้อวัว
+- บรรยากาศดี แอร์เย็น
+
+
+
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
