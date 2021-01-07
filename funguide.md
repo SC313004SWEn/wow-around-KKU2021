@@ -51,7 +51,7 @@ Best places for all kinds of food.
 - ตู้ ATM   (ไทยพาณิชย์, กรุงไทย , กสิกร , กรุงเทพ)
 
 ### 4.ร้านปลาวาฬใจดี
-<img src="images/Phawan.jpeg" width="500"/>
+<img src="images/Phawan.jpg" width="500"/>
 *อ้างอิงภาพจาก:* [WhaleJaiDee.KKU](https://www.facebook.com/WhaleJaiDee.KKU)
 
 ประเภทที่ให้บริการ
@@ -59,7 +59,8 @@ Best places for all kinds of food.
 - มีทั้งอาหารสดและอาหารทะเล
 
 ### 4.FattyFox
-<img src="images/FattyFox.jpeg" width="500"/>
+<img src="images/FattyFox.jpg" width="500"/>
+
 *อ้างอิงภาพจาก:* [fattyfox.official](https://www.facebook.com/fattyfox.official)
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
