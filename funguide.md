@@ -29,7 +29,13 @@ Best places for all kinds of food.
 
 <img src="images/complexFood2.jpg" width="500"/>
 
-*อ้างอิงภาพจาก:* [ศุนย์บริหารจัดการทรัพย์สินมข.](http://www.asset.kku.ac.th/2015/complex1.php)
+*อ้างอิงภาพจาก:* [ศุนย์บริหารจัดการทรัพย์สินมข.](https://forum.khonkaenlink.info/index.php)
+
+#### 3.ร้านส้มตำแตงโมแซบเวอร์ หลังมอ
+<img src="images/Tangmo1.jpg" width="500"/>
+
+<img src="images/Tangmo2.jpeg" width="500"/>
+*อ้างอิงภาพจาก:* [khonkaenlink.info](http://www.asset.kku.ac.th/2015/complex1.php)
 
  ประเภทที่ให้บริการ
 - ร้านอาหารสวัสดิการ จำนวน 26 ร้าน
