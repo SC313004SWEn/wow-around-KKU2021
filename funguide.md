@@ -157,6 +157,15 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เปิด  11.00 - 19.00 น.
 - Facebook : [11AMcafeandspace](https://www.facebook.com/11AMcafeandspace)
 
+#### 8. Sri Brown Cafe' ศูนย์อาหารคอมเพล็กซ์ มข
+<img src="images/sribrown1.jpg" width="500"/>
+
+*อ้างอิงภาพจาก :* [facebook Sri Brown Cafe'](https://www.facebook.com/sribrowncafeComplex/)
+
+>Sri Brown Cafe'คาเฟ่แห่งนี้เป็นอีกหนึ่งที่ๆเด็ก มข. ชอบมา ที่ sir brown มีเครื่องดื่มและของว่างแสนอร่อยพร้อมให้บริการในราคาที่สมเหตุสมผลเป็นที่ๆเหมาะกับการนั้งชิวๆถ่ายภาพสวยๆหรือนั้งอ่านนั้งสือก็ feel good เช่นกัน
+- พิกัด : Sri Brown Cafe สาขา คอมเพล็กซ์ (ชั้น 2)
+- เปิดให้บริการทุกวัน 08:30-20:00
+- Tel : 061 442 8991
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
