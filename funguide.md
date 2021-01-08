@@ -223,6 +223,23 @@ KKU is full of public events. Some are free. Some are not. Here are the list.
 
 >Art Lane หรือ ถนนศิลปะ จัดขึ้นในช่วงต้นปี โดยจัดขึ้นบริเวณสะพานขาว มหาวิทยาลัยขอนแก่น เพื่อเป็นพื้นที่สำหรับเเสดงผลงานของนักศึกษาและถ่ายทอดความรู้ด้านต่างๆ ของแต่ละสาขาวิชาที่เปิดสอนภายในคณะศิลปกรรมศาสตร์ โดยกิจกรรมนี้มีทั้งการขายสินค้าเเฮนด์เมดของนักศึกษา อาหาร และเครื่องดื่ม รวมไปถึงการแสดงผลงานด้านศิลปะอีกด้วย
 
+#### 3. งานเกษตรภาคอีสาน เกษตรแฟร์ มข.
+
+<img src="images\kasetf1.jpg" width="800"/>
+
+*อ้างอิงข้อมูลและภาพจาก :* [เที่ยวจนวันลาหมด](https://www.facebook.com/tiewjonwanlamhott/posts/1983277411925417)
+
+<img src="images\kasetf2.jpg" width="800"/>
+<img src="images\kasetf3.jpg" width="800"/>
+<img src="images\kasetf4.jpg" width="800"/>
+<img src="images\kasetf5.jpg" width="800"/>
+<img src="images\kasetf6.jpg" width="800"/>
+
+*อ้างอิงข้อมูลและภาพจาก :* [เที่ยวจนวันลาหมด](https://www.facebook.com/tiewjonwanlamhott/posts/1983277411925417)
+
+> งานเกษตรภาคอีสาน หรืองานเกษตรแฟร์ มข. เป็นงานแสดงผลผลิตทางการเกษตรที่จัดแสดงขึ้นในทุก ๆ ปี
+ซึ่งจัดแสดงเกี่ยวกับการเกษตร ไม่ว่าจะเป็นซุ้มพืชผัก ผลไม้ ประมง พชไร่ พืชสวน เป็นต้น
+นอกเหนือจากนี้ งานเกษตรแฟร์ยังมีร้านขายอาหาร ผลไม้และผลผลิตทางการเกษตรมากมาย เช่น องุ่น มะม่วง สตรอวเบอร์รี่ แคบหมู หรือร้านขายต้นไม้ เป็นต้น
 
 ## <a name="sport"></a>Sporting :running: :muscle:
 Here are sporting locations and activities for those who like to sweat.
