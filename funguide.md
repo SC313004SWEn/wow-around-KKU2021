@@ -136,14 +136,23 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เปิด : 11:00น.-23:00น.
 - Facebook : Samannachan Café - สมานฉันท์ คาเฟ่
 
-#### 5. Chaban Café (ชบาน์ คาเฟ่)
+#### 6. Chaban Café (ชบาน์ คาเฟ่)
 <img src="images/chaban.jpg" width="500"/>
-*อ้างอิงข้อมูลภาพจาก :*[facebook ชบาน์](https://www.facebook.com/Chaban.KKU/)
+*อ้างอิงภาพจาก:*[facebook ชบาน์](https://www.facebook.com/Chaban.KKU/)
 
 >ชบาน์คาเฟ่ เป็นร้านที่มีเมนูทั่งอาหารคาวและอาหารหวาน โดยเป็นสถานที่นักศึกษาจะชอบมาอ่านหนังสือหรือติวหนังสือกันกัน และอาหารแต่ละอย่างก็มีราคาที่ถูกอีกด้วย
 - พิกัด : หลังม.ขอนแก่น
 - เปิด 11.00 - 03.00น.
 - Facebook : ชบาน์ ร้านกาแฟใกล้มหาลัยขอนแก่น ร้านกาแฟหลัง มข โนนม่วง
+
+#### 7. 11AM cafe and space (11AM คาเฟ่ขอนแก่น)
+<img src="images/11AMCafe.jpg" width="500"/>
+*อ้างอิงภาพจาก:* [TrueID Food](https://food.trueid.net/detail/j7y0P0Dxw6o3)
+
+>11AM cafe and space เป็นร้านคาเฟ่สไตล์มินิมอลที่สรรสร้างขึ้นด้วยแรงกาย แรงใจของยูทูปเบอร์สาว Mayyr(เมอา) ที่มีทั้งเครื่องดื่ม ของหวาน รวมไปถึงเสื้อผ้า กระเป๋ามีสไตล์พี่เม บอกได้เลยว่าถ้าไม่มา เหมือนมาไม่ถึงขอนแก่นกันเลยจ้า
+- พิกัด : เยื้องสนามเทนนิสศรีชาพันธ์ เทศบาลนครขอนแก่น อำเภอเมือง ขอนแก่น
+- เปิด  11.00 - 19.00 น.
+- Facebook :*[11AMcafeandspace](https://www.facebook.com/11AMcafeandspace)
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
