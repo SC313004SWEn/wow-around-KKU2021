@@ -167,6 +167,19 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เปิดให้บริการทุกวัน 08:30-20:00
 - Tel : 061 442 8991
 
+#### 9. Snap Cafe' หลังม.ขอนแก่น
+<img src="images/SnapCafe.jpg" width="500"/>
+
+*อ้างอิงภาพจาก :* [MiniMo](http://www.painaidii.com/diary/diary-detail/004038/lang/th/)
+
+>Snap Cafe’ Snap Cafe’ คาเฟ่ในสวน บรรยากาศเท่ๆ ตกแต่งแบบอินดัสเทรียลโชว์ผนังอิฐมอญและเหล็ก มีมุมถ่ายภาพสุดแนว รวมไปถึงเมนูอาหารเครื่องดื่มที่หลากหลายใครอยากได้รูปเท่ๆ โทนสีแนวๆ พร้อมบรรยากาศดีๆ อาหารอร่อยๆ แวะเวียนไปหลังม.ขอนแก่น กันได้เลยจ้า
+-ที่ตั้ง : หน้าหอ NP Park หลัง ม.ขอนแก่น อำเภอเมือง จ.ขอนแก่น 40000 
+-เบอร์ติดต่อ : 083 284 8872 
+-เวลาเปิด-ปิด : เปิดทุกวัน 11.00 - 00.00 น 
+-เมนูแนะนำ : มอคค่า, บิงซู, สมูทตี้, อาหารจานเดียว
+-ราคาเริ่มต้น : 100 บาทขึ้นไป
+
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
