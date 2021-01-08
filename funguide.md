@@ -138,6 +138,7 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 
 #### 6. Chaban Café (ชบาน์ คาเฟ่)
 <img src="images/chaban.jpg" width="500"/>
+
 *อ้างอิงภาพจาก:* [facebook ชบาน์](https://www.facebook.com/Chaban.KKU/)
 
 >ชบาน์คาเฟ่ เป็นร้านที่มีเมนูทั่งอาหารคาวและอาหารหวาน โดยเป็นสถานที่นักศึกษาจะชอบมาอ่านหนังสือหรือติวหนังสือกันกัน และอาหารแต่ละอย่างก็มีราคาที่ถูกอีกด้วย
