@@ -179,6 +179,16 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 -เมนูแนะนำ : มอคค่า, บิงซู, สมูทตี้, อาหารจานเดียว
 -ราคาเริ่มต้น : 100 บาทขึ้นไป
 
+#### 10. Newbury Coffee House
+<img src="images/newbury01.jpg" width="500"/>
+<img src="images/newbury02.jpg" width="500"/>
+<img src="images/newbury03.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook Newbury Coffee House](https://www.facebook.com/newburycoffeehouse)
+>Newbury Coffee House เป็นร้านที่มีเครื่องดื่มและของหวานให้เลือกชิมมากมาย ตกแต่งสวยงามและเป็นร้านที่เหมาะแก่การมาหนังอ่านหนังสือหรือทำงานสบาย ๆ 
+-พิกัด:  ซอย อดุลยาราม 1 ขอนแก่น (ฝั่งกังสดาล)
+-เวลาเปิด-ปิด: 11.00 - 22.30 น. เว้นวันศุกร์ 11.00 - 18.00 น.
+-เมนูแนะนำ: กาแฟ, ชาเขียวปั่น
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
