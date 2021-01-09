@@ -211,6 +211,22 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เวลาเปิด-ปิด: 11.00 - 22.30 น. เว้นวันศุกร์ 11.00 - 18.00 น.
 - เมนูแนะนำ: กาแฟ, ชาเขียวปั่น
 
+#### 11. Cafe de' Forest มหาวิทยาลัยขอนแก่น
+<img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.0-9/15253600_743984619092361_6259258398310946144_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE1W0u4G30rIavQilU0gD2IP4-Z8u_epBM_j5ny796kE6OwG6bNYginP05R0EsgqgdgifAuMnz6pYkzEHZVORxf&_nc_ohc=R7ZSqgEtKVMAX-Fgnpk&_nc_ht=scontent.fkkc1-1.fna&oh=92b1025ab3033f8e8a7358ffca5b7cfe&oe=601F305F" width="500"/>
+
+<img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.0-9/117132950_1781202388703907_7219070606518025512_o.jpg?_nc_cat=100&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEKzKjjnwNKBL5jesK9da29rPKQZxtGxHms8pBnG0bEeV6oO-Lr7DK2tUj7vxGtf3J23Gkd1HI6TsgP8kHBLIbR&_nc_ohc=daAgN8lPu9MAX_U34Ce&_nc_ht=scontent.fkkc1-1.fna&oh=148cd86720356e72d58b5dbdd63b8549&oe=6020859E" width="500"/>
+
+
+*อ้างอิงภาพจาก :* [Facebook Cafe de' Forest มหาวิทยาลัยขอนแก่น](https://www.facebook.com/Coffeekku)
+
+>คาเฟ่บรรยากาศสวนที่ทำให้การดื่มกาแฟท่ามกลางธรรมชาติเป็นเรื่องง่าย ตั้งอยู่ในมหาวิทยาลัยขอนแก่น การเดินทางสะดวก ภายในร้านออกแบบให้สามารถจิบกาแฟได้ทั้งในห้องแอร์และในสวน พร้อมเสิร์ฟเมนูอาหารคาวและของหวานรสชาติดี ราคาไม่แพง
+
+- ที่ตั้ง : 123 อาคารแก่นกัลปพฤกษ์ ม.ขอนแก่น เมืองขอนแก่น ขอนแก่น 40002
+- เบอร์ติดต่อ : 093 556 5129
+- เวลาเปิด-ปิด : เปิดทุกวัน 08.00 - 17.00 น 
+- ราคาเริ่มต้น : 100 บาทขึ้นไป
+
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
