@@ -90,7 +90,20 @@ Best places for all kinds of food.
 เปิดทุกวัน 10.00-00.00 น. รองรับ 500 ที่นั่ง 
 สำรองที่นั่งล่วงหน้าโทร 043-001200
 
+### 6. T-Bone Steak House
+<img src="images/T-Bone.jpg" width="500"/>
 
+*อ้างอิงภาพจาก :* [Google Maps] (https://www.google.co.th/maps/@16.4574373,102.8233743,3a,60.7y,153.17h,91t/data=!3m6!1e1!3m4!1sr3owH4sHzQCtBgcptMD64Q!2e0!7i16384!8i8192)
+
+<img src="images/T-Bone2.jpg" width="500"/>
+
+*อ้างอิงภาพจาก :* [Facebook page : T-Bone Steak House.] (https://www.facebook.com/tbonekk/)
+
+- ร้านบุฟเฟ่เสต็ก อิ่มอร่อยสุดคุ้ม กินไม่อั้น ! !
+- ราคา 239 บาท รีฟิลน้ำ
+- มีสเต็กหมู ไก่ วัว ทีโบน ปลา
+- อาหารว่างมากมาย
+เวลาเปิดให้บริการ : 16:00 ~ 22:00
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
