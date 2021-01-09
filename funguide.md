@@ -212,10 +212,7 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เมนูแนะนำ: กาแฟ, ชาเขียวปั่น
 
 #### 11. Cafe de' Forest มหาวิทยาลัยขอนแก่น
-<img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.0-9/15253600_743984619092361_6259258398310946144_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE1W0u4G30rIavQilU0gD2IP4-Z8u_epBM_j5ny796kE6OwG6bNYginP05R0EsgqgdgifAuMnz6pYkzEHZVORxf&_nc_ohc=R7ZSqgEtKVMAX-Fgnpk&_nc_ht=scontent.fkkc1-1.fna&oh=92b1025ab3033f8e8a7358ffca5b7cfe&oe=601F305F" width="500"/>
-
-<img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.0-9/117132950_1781202388703907_7219070606518025512_o.jpg?_nc_cat=100&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEKzKjjnwNKBL5jesK9da29rPKQZxtGxHms8pBnG0bEeV6oO-Lr7DK2tUj7vxGtf3J23Gkd1HI6TsgP8kHBLIbR&_nc_ohc=daAgN8lPu9MAX_U34Ce&_nc_ht=scontent.fkkc1-1.fna&oh=148cd86720356e72d58b5dbdd63b8549&oe=6020859E" width="500"/>
-
+<img src="https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.0-9/16684363_787792101378279_4603132604016786597_n.jpg?_nc_cat=111&ccb=2&_nc_sid=e3f864&_nc_eui2=AeGiqG0BfFuWeZ9kv-2sjO63celSrl0SWgpx6VKuXRJaCnboCIS0zB6NFuIBz3k5ptH6czkd5B6_D4K3zqPh4tu3&_nc_ohc=1bc6hDvYMkYAX_9Pm0H&_nc_ht=scontent.fkkc1-1.fna&oh=7f516511e4f94efb03546dde24011347&oe=601FA318" width="500"/>
 
 *อ้างอิงภาพจาก :* [Facebook Cafe de' Forest มหาวิทยาลัยขอนแก่น](https://www.facebook.com/Coffeekku)
 
