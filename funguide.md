@@ -236,6 +236,20 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - เวลาเปิด-ปิด : เปิดทุกวัน 08.00 - 17.00 น 
 - ราคาเริ่มต้น : 100 บาทขึ้นไป
 
+### 12. Rest House cafe
+<img src="images/Rest-h1.jpg" width="500">
+<img src="images/Rest-h2.jpg" width="500">
+<img src="images/Rest-h3.jpg" width="500">
+
+*อ้างอิงภาพจาก:* [Facebook REST HOUSE CAFE'](https://www.facebook.com/REST-HOUSE-CAFE-103375744848307/?ref=page_internal)
+
+>คาเฟ่โซนหลังมอ เยื้องๆเจนหมูกระทะ ร้านบรรยากาศอบอุ่น เหมาะกับนั่งทำงาน อ่านหนังสือ
+ที่ร้านมีอาหาร และเครื่องดื่มให้เลือกมากมาย ที่สำคัญอร่อยมาก และยังมีชั้น2 เปิดโล่งให้รับบรรยากาศ จะนั่งชิลหรือทำงานก็แจ๋ว
+
+- ที่ตั้ง : บ้านโนนม่วง เยื้องๆกับเจนหมูกระทะ
+- เบอร์ติดต่อ : 097-257-5777
+- เวลาเปิด-ปิด : เปิดทุกวัน 10.00-24.00 น.
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
