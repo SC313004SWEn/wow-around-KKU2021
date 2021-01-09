@@ -106,7 +106,7 @@ Best places for all kinds of food.
 เวลาเปิดให้บริการ : 16:00 ~ 22:00
 
 #### 8. ร้านอาหารครัวปืนใหญ่
-<img src="images/1.2Kroopuenyai.png" width ="500"/>
+<img src="images/1.2Kroopuenyai.PNG" width ="500"/>
 *อ้างอิงภาพจาก :* [Google Maps](https://www.google.com/maps/uv?pb=!1s0x3122615fa7113277%3A0x71b18ac30e90a9f4!3m1!7e115!4zL21hcHMvcGxhY2UvJUUwJUI4JTg0JUUwJUI4JUEzJUUwJUI4JUIxJUUwJUI4JUE3JUUwJUI4JTlCJUUwJUI4JUI3JUUwJUI4JTk5JUUwJUI5JTgzJUUwJUI4JUFCJUUwJUI4JThEJUUwJUI5JTg4KyVFMCVCOCU4MiVFMCVCOCVBRCVFMCVCOCU5OSVFMCVCOSU4MSVFMCVCOCU4MSVFMCVCOCU4MSVFMCVCOSU4OCVFMCVCOCU5OS9AMTYuNDc5OTA5NSwxMDIuODAwNjU0NSwzYSw3NXksMC41OWgsOTB0L2RhdGE9ITNtNCExZTEhM20yITFzZENtamRTbFBKT19NQVJQWGp5bktiUSEyZTAhNG0yITNtMSExczB4MzEyMjYxNWZhNzExMzI3NzoweDcxYjE4YWMzMGU5MGE5ZjQ_c2E9WA!5z4LiE4Lij4Lix4Lin4Lib4Li34LiZ4LmD4Lir4LiN4LmIIOC4guC4reC4meC5geC4geC4geC5iOC4mSAtIOC4hOC5ieC4meC4q-C4suC4lOC5ieC4p-C4oiBHb29nbGU!15sCgIgAQ&imagekey=!1e2!2sdCmjdSlPJO_MARPXjynKbQ&hl=th&sa=X&ved=2ahUKEwjn7NCb5o_uAhUFzDgGHanrDIIQpx8wDHoECBYQAw)
 <img src="images/1.2.1Kroopuenyai.jpg" width ="500"/>
 - ร้านขายของชำทั้งน้ำ ขนม เครื่องปรุงรส หรือของใช้ต่างๆ
