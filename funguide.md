@@ -93,11 +93,11 @@ Best places for all kinds of food.
 ### 6. T-Bone Steak House
 <img src="images/T-Bone.jpg" width="500"/>
 
-*อ้างอิงภาพจาก :* [Google Maps] (https://www.google.co.th/maps/@16.4574373,102.8233743,3a,60.7y,153.17h,91t/data=!3m6!1e1!3m4!1sr3owH4sHzQCtBgcptMD64Q!2e0!7i16384!8i8192)
+*อ้างอิงภาพจาก :* [Google Maps](https://www.google.co.th/maps/@16.4574373,102.8233743,3a,60.7y,153.17h,91t/data=!3m6!1e1!3m4!1sr3owH4sHzQCtBgcptMD64Q!2e0!7i16384!8i8192)
 
 <img src="images/T-Bone2.jpg" width="500"/>
 
-*อ้างอิงภาพจาก :* [Facebook page : T-Bone Steak House.] (https://www.facebook.com/tbonekk/)
+*อ้างอิงภาพจาก :* [Facebook page : T-Bone Steak House.](https://www.facebook.com/tbonekk/)
 
 - ร้านบุฟเฟ่เสต็ก อิ่มอร่อยสุดคุ้ม กินไม่อั้น ! !
 - ราคา 239 บาท รีฟิลน้ำ
