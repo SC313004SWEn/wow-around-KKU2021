@@ -1,4 +1,4 @@
-
+﻿
 
 
 # Wow around KKU 2021
@@ -60,7 +60,7 @@ Best places for all kinds of food.
 - ร้านอาหารบุฟเฟ่ต์ ไม่จำกัดเวลา
 - มีทั้งอาหารสดและอาหารทะเล
 
-### 4.FattyFox
+### 5.FattyFox
 <img src="images/FattyFox.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [fattyfox.official](https://www.facebook.com/fattyfox.official)
@@ -70,7 +70,7 @@ Best places for all kinds of food.
 - เหมาะสำหรับคนรักเนื้อวัว
 - บรรยากาศดี แอร์เย็น
 
-#### 5. ร้านสีนานวล คาเฟ่ 
+#### 6. ร้านสีนานวล คาเฟ่ 
 <img src="images/See-na-nuan cafe_1.jpg" width="500"/>
 
 <img src="images/See-na-nuan cafe_2.jpg" width="500"/>
@@ -90,7 +90,7 @@ Best places for all kinds of food.
 เปิดทุกวัน 10.00-00.00 น. รองรับ 500 ที่นั่ง 
 สำรองที่นั่งล่วงหน้าโทร 043-001200
 
-### 6. T-Bone Steak House
+#### 7. T-Bone Steak House
 <img src="images/T-Bone.jpg" width="500"/>
 
 *อ้างอิงภาพจาก :* [Google Maps](https://www.google.co.th/maps/@16.4574373,102.8233743,3a,60.7y,153.17h,91t/data=!3m6!1e1!3m4!1sr3owH4sHzQCtBgcptMD64Q!2e0!7i16384!8i8192)
@@ -104,6 +104,17 @@ Best places for all kinds of food.
 - มีสเต็กหมู ไก่ วัว ทีโบน ปลา
 - อาหารว่างมากมาย
 เวลาเปิดให้บริการ : 16:00 ~ 22:00
+
+#### 8. ร้านอาหารครัวปืนใหญ่
+<img src="images/1.2Kroopuenyai.png" width ="500"/>
+*อ้างอิงภาพจาก :* [Google Maps](https://www.google.com/maps/uv?pb=!1s0x3122615fa7113277%3A0x71b18ac30e90a9f4!3m1!7e115!4zL21hcHMvcGxhY2UvJUUwJUI4JTg0JUUwJUI4JUEzJUUwJUI4JUIxJUUwJUI4JUE3JUUwJUI4JTlCJUUwJUI4JUI3JUUwJUI4JTk5JUUwJUI5JTgzJUUwJUI4JUFCJUUwJUI4JThEJUUwJUI5JTg4KyVFMCVCOCU4MiVFMCVCOCVBRCVFMCVCOCU5OSVFMCVCOSU4MSVFMCVCOCU4MSVFMCVCOCU4MSVFMCVCOSU4OCVFMCVCOCU5OS9AMTYuNDc5OTA5NSwxMDIuODAwNjU0NSwzYSw3NXksMC41OWgsOTB0L2RhdGE9ITNtNCExZTEhM20yITFzZENtamRTbFBKT19NQVJQWGp5bktiUSEyZTAhNG0yITNtMSExczB4MzEyMjYxNWZhNzExMzI3NzoweDcxYjE4YWMzMGU5MGE5ZjQ_c2E9WA!5z4LiE4Lij4Lix4Lin4Lib4Li34LiZ4LmD4Lir4LiN4LmIIOC4guC4reC4meC5geC4geC4geC5iOC4mSAtIOC4hOC5ieC4meC4q-C4suC4lOC5ieC4p-C4oiBHb29nbGU!15sCgIgAQ&imagekey=!1e2!2sdCmjdSlPJO_MARPXjynKbQ&hl=th&sa=X&ved=2ahUKEwjn7NCb5o_uAhUFzDgGHanrDIIQpx8wDHoECBYQAw)
+<img src="images/1.2.1Kroopuenyai.jpg" width ="500"/>
+- ร้านขายของชำทั้งน้ำ ขนม เครื่องปรุงรส หรือของใช้ต่างๆ
+- อีกทั้งยังเป็นร้านอาหารที่รับประกันความอร่อยและคุ้มราคา
+- อาหารเริ่มต้นที่ 25 บาท
+- แม่ค้าเป็นกันเอง
+สถานที่ : ใกล้ประตูหลังค่ายร.8 ติดวัดอดุลแก้วมอดี
+เวลาเปิดให้บริการ : 08:00 - 20:00 น.
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
@@ -249,6 +260,18 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 - ที่ตั้ง : บ้านโนนม่วง เยื้องๆกับเจนหมูกระทะ
 - เบอร์ติดต่อ : 097-257-5777
 - เวลาเปิด-ปิด : เปิดทุกวัน 10.00-24.00 น.
+
+#### 13. cocoa more
+
+<img src="images/cocoamore.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [wongnai](https://www.wongnai.com/restaurants/180300gu-cocoa-more)
+
+>เป็นที่รู้จักกันดีสำหรับชาว มข. รสชาติโกโก้เข้มข้ม เมนูทีเด็ดของร้านจะเป็นไอซ์เบิร์ก กินกี่ครั้ง ก็ฟินได้ทุกครั้ง นอกจากนี้ยังมีอย่างอื่น ขนมนมเนยแถมยังมี wifi ไว้คอยนั่งทำงานอีก ใครที่ยังไม่เคยลอง ต้องปักหมุดไว้เลย 
+
+>พิกัด : ถนน คสล. บ้านโนนม่วง ขอนแก่น (หลัง มข. ออกประตู U Center เลี้ยวซ้าย เลยร้าน See Bear ไปหน่อยนึง) อ่านต่อได้ที่ https://www.wongnai.com/restaurants/180300gu-cocoa-more?ref=ct
+ 
+>เวลาเปิด-ปิด 16.00 - 00.00 น.
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
@@ -443,15 +466,3 @@ Did you know that KKU has many parks and wild life? Let's get out there for fres
 >   บึงสีฐานเป็นบึงน้ำจืดขนาดเล็ก ที่มีความยาวรอบบึงประมาณ 3 กิโลเมตร เป็นบึงที่อยู่ภายในมหาวิทยาลัยขอนแก่น ฝั่งประตูสีฐานติดกับถนนมะลิวัลย์  และอยู่ติดกับศูนย์ประชุมเอนกประสงค์กาญจนาภิเษก ซึ่งเป็นที่นิยมสำหรับบุตลากรและนักศึกษามหาวิทยาลัยขอนแก่นมาก ส่วนใหญ่นั้นมักจะมาผักผ่อนหย่อนใจ ให้อาหารปลา หรือพาสัตว์เลี้ยงมาเดินเล่นที่บึงแห่งนี้
 
 เวลาเปิด-ปิด : เวลาเปิดไม่แน่ชัด-ปิดเวลา 23.00
-
-#### 2. cocoa more
-
-<img src="images/cocoamore.jpg" width="500"/>
-
-*อ้างอิงข้อมูลและภาพจาก:* [wongnai](https://www.wongnai.com/restaurants/180300gu-cocoa-more)
-
->เป็นที่รู้จักกันดีสำหรับชาว มข. รสชาติโกโก้เข้มข้ม เมนูทีเด็ดของร้านจะเป็นไอซ์เบิร์ก กินกี่ครั้ง ก็ฟินได้ทุกครั้ง นอกจากนี้ยังมีอย่างอื่น ขนมนมเนยแถมยังมี wifi ไว้คอยนั่งทำงานอีก ใครที่ยังไม่เคยลอง ต้องปักหมุดไว้เลย 
-
->พิกัด : ถนน คสล. บ้านโนนม่วง ขอนแก่น (หลัง มข. ออกประตู U Center เลี้ยวซ้าย เลยร้าน See Bear ไปหน่อยนึง) อ่านต่อได้ที่ https://www.wongnai.com/restaurants/180300gu-cocoa-more?ref=ct
- 
->เวลาเปิด-ปิด 16.00 - 00.00 น.
