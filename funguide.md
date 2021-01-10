@@ -332,6 +332,38 @@ Food Delivery ?
 - วันเวลาเปิด-ปิด : เปิดทุกวัน เวลา 10.00 - 23.00น.
 - เบอร์ติดต่อ : 043 004 242
 
+
+### 22. โจ๊กป้าแดง U-center Kku
+ <br><center>
+<img src="images/Padang03.jpg" width="400"/><br>
+
+**อ้างอิงรูปภาพจาก :** [www.wongnai.com/restaurants/143793lH-โจ๊กป้าแดง-u-center-kku](https://www.wongnai.com/photos/bd4c4bb3741f4983b082f3774d14bc71)
+
+<br><img src="images/Padang01.jpg" width="400"/><br>
+
+**อ้างอิงรูปภาพจาก :** [www.wongnai.com/restaurants/143793lH-โจ๊กป้าแดง-u-center-kku](https://www.wongnai.com/photos/adef0911e8b540ed9c3192b031b967a2)
+
+<br><img src="images/Padang02.jpg" width="400"/><br>
+
+**อ้างอิงรูปภาพจาก :** [www.wongnai.com/restaurants/143793lH-โจ๊กป้าแดง-u-center-kku](https://www.wongnai.com/photos/be6649bf4eeb41abb08cead9b5f5edae)
+
+</center> <br>
+**สิ่งที่น่าลิ้มลองในร้านโจ๊กป้าแดง**
+
+- อาหารมีรสชาติอร่อย
+- ได้ปริมาณมาก
+- คุ้มราคา
+- มีจำนวนเมนูให้เลือกหลากหลาย อาทิเช่น โจ๊ก ,บะหมี่ ,ต้มเส้น ,ต้มกระดูกหมู และเมนูอื่นๆให้เลือกอีกมากมาย
+- แม่ค้าใจดี ยิ้มแย้มแจ่มใส
+- ราคาเริ่มต้นที่ 30 บาทขึ้นไป
+
+> **พิกัดร้าน** : ร้านโจ๊กป้าแดง ศูนย์อาหาร U-Center มหาวิทยาลัยขอนแก่น 
+
+> **facebook** : [โจ๊กป้าแดง ขอนแก่น](https://www.facebook.com/jokepadang/) 
+
+> **ร้านเปิดให้บริการในเวลา** เวลา 17.00-04.00 น. เบอร์ติดต่อ : 065 334 0346
+
+
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
