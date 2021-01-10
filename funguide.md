@@ -332,6 +332,7 @@ Food Delivery ?
 - วันเวลาเปิด-ปิด : เปิดทุกวัน เวลา 10.00 - 23.00น.
 - เบอร์ติดต่อ : 043 004 242
 
+<<<<<<< HEAD
 
 ### 22. โจ๊กป้าแดง U-center Kku
  <br><center>
@@ -363,6 +364,16 @@ Food Delivery ?
 
 > **ร้านเปิดให้บริการในเวลา** เวลา 17.00-04.00 น. เบอร์ติดต่อ : 065 334 0346
 
+=======
+###21. VIP ส้มตำ CLUB กังสดาล ขอนแก่น
+<img src="images/somtum2.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [VIP ส้มตำ CLUB กังสดาล ขอนแก่น](https://www.facebook.com/VIP-%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B9%8D%E0%B8%B2-club-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A5-%E0%B8%A1%E0%B8%82-220810648798553/)
+
+>อาหารอีสาน/ร้านส้มตำ อาหารจานเดียว อาหารไทย เปิดเวลา 10:30 - 20:00 น.
+พิกัด : 90/586 หมู่4 ถนน ชีท่าขอน ต.ในเมือง อ.เมืองขอนแก่น เทศบาลนครขอนแก่น 40000
+เบอร์โทร : 096 332 2363
+>>>>>>> Khyng
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
