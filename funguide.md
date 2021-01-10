@@ -190,6 +190,27 @@ Best places for all kinds of food.
 เสาร์ - อาทิตย์ 11:30 - 15:00 17:00 - 21:00 น
 - ทุกวันจะพักเบรค : 15:00-17:00 น.
 
+### 13. ลูกหมูสี่ตัว
+<img src="images/LukMuSiTua1.jpg" width="500"/>
+
+<img src="images/LukMuSiTua.jpg" width="500"/>
+
+
+*อ้างอิงรูปภาพจาก :* [ลูกหมูสี่ตัว]( https://www.facebook.com/ลูกหมูสี่ตัว-Korean-BBQ-100370624772851)
+
+ลูกหมูสี่ตัว ปิ้งย่างฟีลเกาหลี 
+- ราคาเพียง 234.-  
+- ไม่จำกัดเวลา
+- มีอาหารเกาหลี กิมจิ ไชเท้าดอง ไก่ทอดซอสเกาหลี หอมทอด รวมถึงผักสด
+- ซีฟู้ดมีหมึก กุ้ง 
+- เนื้อจะเป็นสามชั้นและสันคอหมูหมักสูตรต่างๆ  
+- ของหวาน จะเป็นขนมถ้วย และไอติมอีกหลายรสชาติให้เลือก อาทิเช่น รสมะนาว รสวนิลา และอื่นๆเป็นต้น 
+
+เปิด 12.00-22.00 ทุกวัน
+โทร : 095 391 3731
+พิกัด : https://goo.gl/maps/7jY8voztdmzYMSGw5
+กังสดาลติดร้าน grim cafe
+
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
