@@ -321,6 +321,16 @@ Food Delivery ?
 โทร : 085 742 2411
 พิกัด : https://www.google.com/maps/dir/?api=1&destination=16.491521995978%2C102.81067013741&fbclid=IwAR3iyC92VUBCotUd6Xnxm11Rjuhp_SdQ48MLNY0aOUTEOCDdgp1XlLUsT6Y
 
+## 21. วีที แหนมเนือง สาขามหาวิทยาลัยขอนแก่น By Rosemary House
+<img src="images/Jup01.jpg" width="500"/>
+<img src="images/Jup02.jpg" width="500"/>
+<img src="images/Jup03.jpg" width="500"/>
+*อ้างอิงรูปภาพจาก :*(https://maps.app.goo.gl/1cXdGSBtBLGAZoTD9)
+
+> แหนมเนืองเจ้าดังจากจังหวัดอุดร สาขาประตูเขียว ด้านหลังมหาวิทยาลัยขอนแก่น ร้านบรรยากาศหรูสีขาวน่ารักดี อาหารอร่อย โดยเฉพาะแหนมเนืองสูตรดั่งเดิมของอุดรธานี และอาหารเวียดนามอื่นๆ เช่น กุ้งพันอ้อย  พันหอม แหนมใบมะยม  ปอเปี๊ยะทอด ไส้กรอกอีสาน แหนมซี่โครงทอด และอื่นๆ อีกมากมาย
+- พิกัด : ตำบล ศิลา อำเภอเมืองขอนแก่น ขอนแก่น 40000
+- วันเวลาเปิด-ปิด : เปิดทุกวัน เวลา 10.00 - 23.00น.
+- เบอร์ติดต่อ : 043 004 242
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
