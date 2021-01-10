@@ -482,8 +482,9 @@ Chickmax Factory
 
 ### 31.โอชิเนขอนแก่น
 
+<img src="images/OshineiKK1.jpg" width="500"/>
 
-
+<img src="images/OshineiKK2.jpg" width="500"/>
 
 ร้านอาหารญี่ปุ่นแบบบุฟเฟ่ต์
 -ร้านเปิดทุกวันเวลา 11.00 น. ถึง 22.00 น.
