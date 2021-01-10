@@ -475,22 +475,6 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 >  มีทั้งอาหารเครื่องดื่มรวมทั้งขนมปังที่แสนอร่อย อีกอย่างร้านนี้เข้าร่วมโครงการคนล่ะครึ่งอีกด้วย 
 
 
-#### 16. Dewa Cafe' & Co-Working Space'
-
-<img src="images/Dewa01" width="500"/>
-<img src="images/Dewa02" width="500"/>
-<img src="images/Dewa03" width="500"/>
-<img src="images/Dewa04" width="500"/>
- Dewa Cafe' & Co-Working Space คาเฟ่ดีๆใกล้มอ บรรยากาศร้านที่สงบ มีแยกหลายโซนสำหรับทำงานอ่านหนังสือหรือเปลี่ยนเป็นที่นั่งชิลๆ การตกแต่งร้านให้มีที่ถ่ายรูปหลายๆมุม มีทั้งอาหารและเครื่องดื่มครบครัน 
-*อ้างอิงข้อมูลและภาพจาก: (https://www.facebook.com/Dewacoworking/)
-
-
-เปิดให้บริการ : 09.00 - 01.00 น. 
-โทรศัพท์ : 080 797 4747
-พิกัด : 470 ซอย อดุลยาราม 1 ตำบลในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000 
-การชำระเงิน : รับเงินสด , QR-Payment
-
-
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
