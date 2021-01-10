@@ -876,13 +876,13 @@ Here are sporting locations and activities for those who like to sweat.
 
 ### 4. สระว่ายน้ำชนเห็นชอบ
 
-<img src="images/Chon Hen Chob Swimming Pool 1.jpg" width="500"/>
+<img src="images/ChonHenChobSwimmingPool_1.jpg" width="500"/>
 สระว่ายน้ำชลเห็นชอบ เป็นสระว่ายน้ำ ที่ ไม่ได้เปิดให้บริการแค่ นักศึกษาหรือบุคลากร ภายในเท่านั้น 
 บุคคลภายนอกก็สามารถมาใช้บริการได้เช่นกัน  มีบริการเช่าชุด และ อุปกรณ์ได้ 
 
 #### ค่าบริการ
 
-<img src="images/Chon Hen Chob Swimming Pool 2.jpg" width="500"/>
+<img src="images/ChonHenChobSwimmingPool_2.jpg" width="500"/>
 
 ที่อยู่: 123 ถนน มิตรภาพ ตำบล ศิลา อำเภอเมืองขอนแก่น ขอนแก่น 40002
 
@@ -891,6 +891,8 @@ Here are sporting locations and activities for those who like to sweat.
 วันอังคาร	ปิดทำการ
 
 *อ้างอิงข้อมูลและภาพจาก:* [สระว่ายน้ำชนเห็นชอบ] (www.facebook.com/สระว่ายน้ำชนเห็นชอบ-มหาวิทยาลัยขอนแก่น-1443015189069119/)
+
+
 
 ## <a name="shopping"></a> Shopping :dress: :gift:
 Looking for souvenirs or buying the essestials? There are many places for you to go. 
