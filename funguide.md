@@ -748,7 +748,7 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 090 698 9900
 - เวลาเปิด-ปิด : เปิดบริการทุกวัน 10:30 - 19:00 น.
 
-### 21. ฟาร์มสุข คาเฟ่
+### 22. ฟาร์มสุข คาเฟ่
 <img src="images/farmsook.jpg" width="500"/>
 <img src="images/farmsook2.jpg" width="500"/>
 
