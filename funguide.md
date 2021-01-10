@@ -15,6 +15,8 @@ Visiting KKU for the first time? This guide will give you the most enjoyable way
 
 ## <a name="food"></a>Food :rice: :ramen:
 Best places for all kinds of food.
+
+
 ### 1. ลูกหมูสี่ตัว
 <img src="images/LukMuSiTua1.jpg" width="500"/>
 
@@ -31,8 +33,8 @@ Best places for all kinds of food.
 - เนื้อจะเป็นสามชั้นและสันคอหมูหมักสูตรต่างๆ  
 - ของหวาน จะเป็นขนมถ้วย และไอติมอีกหลายรสชาติให้เลือก อาทิเช่น รสมะนาว รสวนิลา และอื่นๆเป็นต้น 
 
-เปิด 12.00-22.00 ทุกวัน
-โทร : 095 391 3731
+- เปิด 12.00-22.00 ทุกวัน
+- โทร : 095 391 3731
 พิกัด : https://goo.gl/maps/7jY8voztdmzYMSGw5
 กังสดาลติดร้าน grim cafe
 
