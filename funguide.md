@@ -771,7 +771,6 @@ Facebook: Sri Brown Cafe’ Khon Kaen
 Address: 43/30 ถนน อดุลยาราม ตำบล ในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000
 Tel: 091 051 9439
 
-
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
