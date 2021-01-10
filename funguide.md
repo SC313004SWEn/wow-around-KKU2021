@@ -15,7 +15,7 @@ Visiting KKU for the first time? This guide will give you the most enjoyable way
 
 ## <a name="food"></a>Food :rice: :ramen:
 Best places for all kinds of food.
-### 14. ลูกหมูสี่ตัว
+### 1. ลูกหมูสี่ตัว
 <img src="images/LukMuSiTua1.jpg" width="500"/>
 
 <img src="images/LukMuSiTua.jpg" width="500"/>
