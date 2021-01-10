@@ -591,6 +591,17 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 
 > เป็นตลาดที่มีความครบเครื่อง ไม่ว่าจะเป็น  อาหาร แฟชั่น เสื้อผ้า เครื่องสำอาง อยู่ที่นี้มีหมด เรียกได้ว่าจบในที่เดียว
 > พิกัด : ตลาดมอดินแดงตั้งอยู่บริเวณหลังศุนย์อาหารและบริการ(คอมเพล็ก)เปิดทุกวัน เวลา17.00-21.30 น. 
+
+### 4. ตลาด 62 blocks
+
+<img src="images/62block.jpg" width="500"/>
+<img src="images/62block2.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [Foodyas](https://www.foodyas.com/TH/Khon-Kaen/143258716285409/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%9462%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99)
+
+> ตลาด62บล็อก ขอนแก่นกินเพลิน เดินชิลล์ ที่ตลาด62 บล็อกขอนแก่น การช้อปปิ้งและค้าปลีก ซึ่งมีร้านค้ามากกว่า150ร้าน<br>
+> พิกัด : 157/89-91 Soi Maha Witthayalai, Mueang Khon Kaen District, Khon Kaen 40000
+
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
 
