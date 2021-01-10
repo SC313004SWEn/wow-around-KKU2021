@@ -792,6 +792,18 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 093 092 8860
 - เวลาเปิด-ปิด : เปิดวันอังคาร-วันอาทิตย์ เวลา 12:00 - 23:00
 
+#### 24.ฌาณไม้
+
+<img src="images/chanmai1.jpg" width="500"/>
+<img src="images/chanmai2.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook Khon Kaen Review](https://www.facebook.com/930523947138394/posts/1429650253892425/)
+
+>ร้านสวย เป็นบ้านไม้เก่าๆ แต่คงความคลาสสิค ตัวร้าน 2 ชั้น ที่นั่งไม้ (ด้านหลังมีโรงไม้ ทำงานไม้ขายด้วย) บรรยากาศอบอุ่น เจ้าของร้านน่ารักมาก ยิ้มแย้มทักทาย ร้านสงบไม่วุ่นวาย เพราะคนที่มาส่วนมากเป็นคนที่มีความชอบเดียวกันคือ ความสงบ ด้านหลังมีสวนนังชิลๆ นอนก็ชิลใต้ต้นไม้ใหญ่ กาแฟดีมากๆ อาหารเยี่ยมเน้นเนื้อโคขุน มีแอร์เย็นฉ่ำหลบร้อนได้สบาย ที่จอดรถกว้าง 
+
+-พิกัด ริมบึงหนองแวง กังสดาล หลังร้านชิดชล ซอยเดียวกับกับศรีบราวน์ เลยมา 200 เมตร ติดร้านธรรมดาที่แสนพิเศษ
+-เวลาเปิด 09.00-22.00
+-โทร 0951692231
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
@@ -1056,8 +1068,6 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 ### 5. ตลาดต้นตาล
 
 <img src="images/tontann.jpg" width="500"/>
-
-<img src="images/tontann2.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:* [Paiduaykan](https://www.paiduaykan.com/travel/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5)
 
