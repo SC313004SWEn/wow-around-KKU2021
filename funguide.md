@@ -294,6 +294,15 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
  
 >เวลาเปิด-ปิด 16.00 - 00.00 น.
 
+#### 14. Class Cafe
+
+<img src="images/class_cafe.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* https://www.wongnai.com/restaurants/292465li-class-cafe-%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C
+
+> พิกัด : อยู่ถนนมะลิวัลย์ ตัดกับถนนมิตรภาพ แถวสามเหลี่ยม ตรงข้ามโชวรูมรถ Mitsubishi ร้านอยู่ถ.มะลิวัลย์ ฝั่งทางจะออกไปสนามบิน ก่อนถึงหน้ามหาวิทยาลัยขอนแก่น
+> เวลาเปิด-ปิด : 24 ชั่วโมง
+> มีบริการเดลิเวอรี่และนั่งทานที่ร้าน บรรยากาศดี เหมาะกับนั่งทำงานและอ่านหนังสือ
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
@@ -487,3 +496,4 @@ Did you know that KKU has many parks and wild life? Let's get out there for fres
 >   บึงสีฐานเป็นบึงน้ำจืดขนาดเล็ก ที่มีความยาวรอบบึงประมาณ 3 กิโลเมตร เป็นบึงที่อยู่ภายในมหาวิทยาลัยขอนแก่น ฝั่งประตูสีฐานติดกับถนนมะลิวัลย์  และอยู่ติดกับศูนย์ประชุมเอนกประสงค์กาญจนาภิเษก ซึ่งเป็นที่นิยมสำหรับบุตลากรและนักศึกษามหาวิทยาลัยขอนแก่นมาก ส่วนใหญ่นั้นมักจะมาผักผ่อนหย่อนใจ ให้อาหารปลา หรือพาสัตว์เลี้ยงมาเดินเล่นที่บึงแห่งนี้
 
 เวลาเปิด-ปิด : เวลาเปิดไม่แน่ชัด-ปิดเวลา 23.00
+
