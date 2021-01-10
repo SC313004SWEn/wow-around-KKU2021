@@ -588,6 +588,20 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 081-266-4012
 - เวลาเปิด-ปิด : เปิดทุกวัน 14.00-01.30 น.
 
+#### 19. fellow fellow cafe
+
+<img src="images/felowdrink.jpg" width="500"/>
+<img src="images/fellowdonut.jpg" width="500"/>
+<img src="images/fellow_cafemap.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Fellow Fellow Cafe](https://www.facebook.com/fellowfellowcafe/?ref=page_internal)
+
+>คาเฟ่สไตล์มินิมอล มีชา กาแฟ โดนัทแป้งนุ่มไส้แน่น จัดเต็มทุกรสชาติ
+
+- ที่ตั้ง : 48 ซอย ๑/๕ Tambon Nai Mueang, Amphoe Mueang Khon Kaen, Chang Wat Khon Kaen 40000
+- เบอร์ติดต่อ : 095 830 7187
+- เวลาเปิด-ปิด : เปิดทุกวัน 9:00 AM - 6:00 PM ยกเว้นวันพฤหัส
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
