@@ -239,7 +239,7 @@ Best places for all kinds of food.
 
 ### 17. Good แหนมเนือง (กู๊ดแหนมเนือง)
 <img src="images/nam.jpg" width="500"/>
-*รูปภาพจากคุณ* [The Popino](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fppraephotograp1%2Fstatus%2F1055809350319534081&psig=AOvVaw0y67kpxblFyFkw6HEETTs8&ust=1610364336014000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiK5-Sgke4CFQAAAAAdAAAAABAD)
+*รูปภาพจากคุณ* [The_Popino](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fppraephotograp1%2Fstatus%2F1055809350319534081&psig=AOvVaw0y67kpxblFyFkw6HEETTs8&ust=1610364336014000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiK5-Sgke4CFQAAAAAdAAAAABAD)
 
 > มหาวิทยาลัยขอนแก่น ขอนแก่น (ข้างตึกอธิการ มหาวิทยาลัยขอนแก่น) 
 จันทร์ - อังคาร 11:00 - 20:30
