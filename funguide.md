@@ -376,6 +376,21 @@ Food Delivery ?
 พิกัด : 90/586 หมู่4 ถนน ชีท่าขอน ต.ในเมือง อ.เมืองขอนแก่น เทศบาลนครขอนแก่น 40000
 เบอร์โทร : 096 332 2363
 
+### 21. Chickmax Factory
+<img src="images/chick01.jpg" width="500"/>
+
+<img src="images/chick02.jpg" width="500"/>
+
+
+*อ้างอิงข้อมูลและรูปภาพจาก :* [Chickmax Factory](https://www.wongnai.com/restaurants/295166xq-chickmax-factory)
+
+Chickmax Factory
+ > ร้านอาหารเกาหลี มีอาหารหลากหลาย เด็ดที่ไก่ทอดพร้อมกับสโกนแกนที่ว่า “กินไก่ทีต้องกินเป็นกิโล” ซึ่งเด็ดที่ซอส และมีให้เลือกหลายอย่างตามความต้องการ อีกทั้งยังมีเมนูอีกหลายหลาย เช่น ซุปกิมจิ ต็อกโบกิ และที่พลาดไม่ได้ของร้านนี้คือ ของหวาน ที่ทำให้มีลักษณะเหมือนเส้นรามยอน เช่น ไมโลรามยอน ชาไทยรามยอน ทั้งยังมีท็อปปิ้งให้เลือกอีกมากมาย 
+
+เปิดเวลา 11:00 - 22:30 ทุกวัน
+โทร : 0640846776
+พิกัด : 30-400 Adunyaram Rd, Tambon Nai Mueang, Amphoe Mueang Khon Kaen, Chang Wat Khon Kaen 40000
+
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
