@@ -731,6 +731,17 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 090 698 9900
 - เวลาเปิด-ปิด : เปิดบริการทุกวัน 10:30 - 19:00 น.
 
+### 21. ฟาร์มสุข คาเฟ่
+<img src="images/farmsook.jpg" width="500"/>
+<img src="images/farmsook2.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:*[Facebook ฟาร์มสุข Market cafe] (https://web.facebook.com/FarmSookCafe)
+
+-พิกัด :อุทยานเทคโนโลยีเกษตร มข. ถ.สีฐาน เทศบาลนครขอนแก่น 40002
+-เวลาเปิด-ปิด 07:00น.-20:00น.
+-ร้านกาแฟ อาหาร เครื่องดื่ม เบเกอรี่ บรรยากาศในสวน แบบส่วนตัว และห้องแอร์ ในราคาเบาๆ
+
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
