@@ -1037,7 +1037,6 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 ### 5. ตลาดต้นตาล
 
 <img src="images/tontann.jpg" width="500"/>
-<img src="images/tontann.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:* [Paiduaykan](https://www.paiduaykan.com/travel/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5)
 
