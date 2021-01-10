@@ -496,6 +496,25 @@ Chickmax Factory
 - ที่ตั้งของร้านอยู่ที่ 190/16 หมู่ 16 ถ.ศรีมารัตน์ ขอนแก่น (กังสดาล มหาวิทยาลัยขอนแก่น ข้างร้าน sweet gallery)
 
 ขอบคุณข้อมูลและรูปภาพจาก เว็บไซต์ wongnai[https://www.wongnai.com/restaurants/300788Rv-โอชิเน-ขอนแก่น]
+
+### 32. Chesse day - every day
+<img src="images/chessesday.jpg" width="500"/>
+
+อ้างอิงรูปภาพจาก : [Chesse day]( https://www.facebook.com/cheesedaykhonkaen)
+
+Chesse day - every day ปิ้งย่างฟีลเกาหลี 
+- ราคาเพียง 239.-  รวมน้ำ
+- จำกัดเวลา 2 ชั่วโมง
+- มีอาหารเกาหลี กิมจิ ไชเท้าดอง ไก่ทอดซอสเกาหลี หอมทอด รวมถึงผักสด
+- ซีฟู้ดมีหมึก กุ้ง 
+- เนื้อจะเป็นสามชั้นและสันคอหมูหมักสูตรต่างๆ  
+- ของหวาน จะเป็นไอติมอีกหลายรสชาติให้เลือก อาทิเช่น รสมะนาว รสวนิลา และอื่นๆเป็นต้น 
+
+- เปิด 16.00-22.00 ทุกวัน
+- โทร : 061-639-6459
+พิกัด : https://goo.gl/maps/MxyW4S7StTt53rVh7
+ทางไปกะขม
+
  
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
