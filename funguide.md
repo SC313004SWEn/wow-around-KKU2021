@@ -465,6 +465,15 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9) 
 การชำระเงิน : รับเงินสด , QR-Payment
 
+### 16. Inwhite cafe 
+ 
+ <img src="image/inwhitecafe.jpg" width="500"/>
+ 
+ *แหล่งอ้างอิง: > [facebook](https://www.facebook.com/inwhitecafekk)
+  
+>  เป็นร้านคาเฟ่ที่ตั้งอยู่บริเวณฝั่งกังสดาล มหาวิทยาลัยขอนแก่น ใกล้ๆตลาด 62 บล็อค 
+>  มีทั้งอาหารเครื่องดื่มรวมทั้งขนมปังที่แสนอร่อย อีกอย่างร้านนี้เข้าร่วมโครงการคนล่ะครึ่งอีกด้วย 
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
