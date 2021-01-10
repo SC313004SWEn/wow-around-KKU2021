@@ -177,6 +177,19 @@ Best places for all kinds of food.
 
 ติดต่อ		: 085 853 2006 หรือที่ Facebook page : On-Zon ออนซอน แจ่วฮ้อน&ชาบู - ขอนแก่น
 
+### 12. ร้านแล้วแต่ กะเพราแท้ ขอนแก่น
+<img src="images/11_kapraotae_leawtae.png" width="500"/>
+
+*อ้างอิงภาพจาก:* [wongnai.com](https://www.wongnai.com/news/laew-tae-kapraow-restaurant-kku)
+
+ประเภทที่ให้บริการ
+- ร้านอาหารกะเพรา
+
+เวลาให้บริการ
+- เวลาทำการ : จันทร์-ศุกร์ 11:00 - 15:00 17:00-21:00 น. 
+เสาร์ - อาทิตย์ 11:30 - 15:00 17:00 - 21:00 น
+- ทุกวันจะพักเบรค : 15:00-17:00 น.
+
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
