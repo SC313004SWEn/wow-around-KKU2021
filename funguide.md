@@ -297,7 +297,7 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 #### 14. Class Cafe
 
 <img src="images/class_cafe.jpg" width="500"/>
-*อ้างอิงข้อมูลและภาพจาก:* [wongnai](https://www.wongnai.com/restaurants/292465li-class-cafe-%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C)
+*อ้างอิงข้อมูลและภาพจาก:* [wongnai](https://www.wongnai.com/restaurants/292465li-class-cafe)
 
 > พิกัด : อยู่ถนนมะลิวัลย์ ตัดกับถนนมิตรภาพ แถวสามเหลี่ยม ตรงข้ามโชวรูมรถ Mitsubishi ร้านอยู่ถ.มะลิวัลย์ ฝั่งทางจะออกไปสนามบิน ก่อนถึงหน้ามหาวิทยาลัยขอนแก่น
 > เวลาเปิด-ปิด : 24 ชั่วโมง
