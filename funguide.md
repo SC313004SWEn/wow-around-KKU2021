@@ -398,7 +398,7 @@ Food Delivery ?
 #รีวิวมข #รีวิวขอนแก่น
 พิกัดร้าน : https://www.google.co.th/maps/place/%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%A2/@16.457789,102.8219468,17z/data=!3m1!4b1!4m5!3m4!1s0x31228b03e69cd8a1:0xe70613369566723a!8m2!3d16.457789!4d102.8241355
 
-### 21. Chickmax Factory
+### 25. Chickmax Factory
 <img src="images/chick01.jpg" width="500"/>
 
 <img src="images/chick02.jpg" width="500"/>
