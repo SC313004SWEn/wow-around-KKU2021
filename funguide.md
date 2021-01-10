@@ -37,12 +37,12 @@ Best places for all kinds of food.
 กังสดาลติดร้าน grim cafe
 
 
-#### 1. ศุนย์อาหารและบริการ 2 มข. (โรงชาย)
+### 2. ศุนย์อาหารและบริการ 2 มข. (โรงชาย)
 > ถูกและดี มีอยู่จริง!! มีอาหารให้เลือกหลากหลาย ทั้งข้าวราดแกง อาหารตามสั่ง ก๋วยเตี๋่ยว ผลไม้ และขนมหวาน ตั้งแต่ราคาหลักสิบถึงหลักร้อย
 พิกัด: เยื้องสนามกีฬากลาง มข.
 > เวลาเปิด-ปิด: ตลอดเวลา
 
-#### 2. ศูนย์อาหารและบริการ 1 (คอมเพล็กซ์)
+### 3. ศูนย์อาหารและบริการ 1 (คอมเพล็กซ์)
 <img src="images/complexFood.jpg" width="500"/>
 
 <img src="images/complexFood2.jpg" width="500"/>
@@ -61,7 +61,7 @@ Best places for all kinds of food.
     (เสื้อผ้า / กิ๊ฟช้อป / บริการตัดเย็บ / ซ่อมนาฬิกา / เติมเงินและซิมโทรศัพท์มือถือ /เครื่องดื่มและขนมขบเคี้ยว)
 - ตู้ ATM   (ไทยพาณิชย์, กรุงไทย , กสิกร , กรุงเทพ)
 
-#### 3.ร้านส้มตำแตงโมแซบเวอร์ หลังมอ
+### 4.ร้านส้มตำแตงโมแซบเวอร์ หลังมอ
 <img src="images/Tangmo1.jpg" width="500"/>
 
 <img src="images/Tangmo2.jpeg" width="500"/>
@@ -69,7 +69,7 @@ Best places for all kinds of food.
 
 เป็นร้านส้มตำที่มีคนนิยมไปกิน มีเมนูให้เลือกมากมาย เช่น ส้มตำ ไก่ย่าง ลาบ อ่อม ต้มแซบต่างๆ รสชาติถูกปาก ราคาสบายกระเป๋า มีน้ำดื่ม ช้อน จาน บริการตัวเองให้ฟรี
 
-### 4.ร้านปลาวาฬใจดี
+### 5.ร้านปลาวาฬใจดี
 <img src="images/Phawan.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [WhaleJaiDee.KKU](https://www.facebook.com/WhaleJaiDee.KKU)
@@ -78,7 +78,7 @@ Best places for all kinds of food.
 - ร้านอาหารบุฟเฟ่ต์ ไม่จำกัดเวลา
 - มีทั้งอาหารสดและอาหารทะเล
 
-### 5.FattyFox
+### 6.FattyFox
 <img src="images/FattyFox.jpg" width="500"/>
 
 *อ้างอิงภาพจาก:* [fattyfox.official](https://www.facebook.com/fattyfox.official)
@@ -88,7 +88,7 @@ Best places for all kinds of food.
 - เหมาะสำหรับคนรักเนื้อวัว
 - บรรยากาศดี แอร์เย็น
 
-#### 6. ร้านสีนานวล คาเฟ่ 
+### 7. ร้านสีนานวล คาเฟ่ 
 <img src="images/See-na-nuan cafe_1.jpg" width="500"/>
 
 <img src="images/See-na-nuan cafe_2.jpg" width="500"/>
@@ -108,7 +108,7 @@ Best places for all kinds of food.
 เปิดทุกวัน 10.00-00.00 น. รองรับ 500 ที่นั่ง 
 สำรองที่นั่งล่วงหน้าโทร 043-001200
 
-#### 7. T-Bone Steak House
+### 8. T-Bone Steak House
 <img src="images/T-Bone.jpg" width="500"/>
 
 *อ้างอิงภาพจาก :* [Google Maps](https://www.google.co.th/maps/@16.4574373,102.8233743,3a,60.7y,153.17h,91t/data=!3m6!1e1!3m4!1sr3owH4sHzQCtBgcptMD64Q!2e0!7i16384!8i8192)
@@ -123,7 +123,7 @@ Best places for all kinds of food.
 - อาหารว่างมากมาย
 เวลาเปิดให้บริการ : 16:00 ~ 22:00
 
-#### 8. ร้านอาหารครัวปืนใหญ่
+### 9. ร้านอาหารครัวปืนใหญ่
 <img src="images/1.2Kroopuenyai.PNG" width ="500"/>
 
 *อ้างอิงภาพจาก :* [Google Maps](https://www.google.com/maps/uv?pb=!1s0x3122615fa7113277%3A0x71b18ac30e90a9f4!3m1!7e115!4zL21hcHMvcGxhY2UvJUUwJUI4JTg0JUUwJUI4JUEzJUUwJUI4JUIxJUUwJUI4JUE3JUUwJUI4JTlCJUUwJUI4JUI3JUUwJUI4JTk5JUUwJUI5JTgzJUUwJUI4JUFCJUUwJUI4JThEJUUwJUI5JTg4KyVFMCVCOCU4MiVFMCVCOCVBRCVFMCVCOCU5OSVFMCVCOSU4MSVFMCVCOCU4MSVFMCVCOCU4MSVFMCVCOSU4OCVFMCVCOCU5OS9AMTYuNDc5OTA5NSwxMDIuODAwNjU0NSwzYSw3NXksMC41OWgsOTB0L2RhdGE9ITNtNCExZTEhM20yITFzZENtamRTbFBKT19NQVJQWGp5bktiUSEyZTAhNG0yITNtMSExczB4MzEyMjYxNWZhNzExMzI3NzoweDcxYjE4YWMzMGU5MGE5ZjQ_c2E9WA!5z4LiE4Lij4Lix4Lin4Lib4Li34LiZ4LmD4Lir4LiN4LmIIOC4guC4reC4meC5geC4geC4geC5iOC4mSAtIOC4hOC5ieC4meC4q-C4suC4lOC5ieC4p-C4oiBHb29nbGU!15sCgIgAQ&imagekey=!1e2!2sdCmjdSlPJO_MARPXjynKbQ&hl=th&sa=X&ved=2ahUKEwjn7NCb5o_uAhUFzDgGHanrDIIQpx8wDHoECBYQAw)
@@ -139,7 +139,7 @@ Best places for all kinds of food.
 
 เวลาเปิดให้บริการ : 08:00 - 20:00 น.
 
-### 9. Haru Hana : Japanese Cafe
+### 10. Haru Hana : Japanese Cafe
 <img src="images/Haruhana.jpg" width="500"/>
 
 *อ้างอิงภาพจาก :* [Facebook page : Haru Hana : Japanese Cafe](https://www.facebook.com/haruhanacafe.kkc/)
@@ -155,14 +155,14 @@ Best places for all kinds of food.
 
 เบอร์โทร : 091 052 7310
 
-#### 10 . โบโบ้เครป&นมสด หลังมอ
+### 11 . โบโบ้เครป&นมสด หลังมอ
 <img src="images/BoboMilkCrepe.jpg" width="500"/>
 *อ้างอิงข้อมูลและภาพจาก:* [FB โบโบ้เครป&นมสด หลังมอ ](https://www.facebook.com/720579054656527/posts/2177554775625607/)
 > เป็นร้านเครปยอดฮิตของชาว มข. ซึ่งมีเมนูที่หลายหลยากให้เลือกสรร จุดเด่นอยู่ที่แป้งทีนำมาใช้ทำ
 > พิกัด : หลังมอ เทศบาลนครขอนแก่น 40000 (หลัง มข. ออกประตู U Center เลี้ยวซ้าย จะเยื้องกับอเมซอน) 
 > เวลาเปิด - ปิด 18.00 - 00.00 น.
 
-#### 11. On-Zon
+### 12. On-Zon
 <img src="images/OnZon.jpg" width="500"/>
 
 *อ้างอิงภาพจาก :* [Facebook page : On-Zon ออนซอน แจ่วฮ้อน&ชาบู - ขอนแก่น](https://www.facebook.com/onzonbuffet/)
@@ -177,7 +177,7 @@ Best places for all kinds of food.
 
 ติดต่อ		: 085 853 2006 หรือที่ Facebook page : On-Zon ออนซอน แจ่วฮ้อน&ชาบู - ขอนแก่น
 
-### 12. ร้านแล้วแต่ กะเพราแท้ ขอนแก่น
+### 13. ร้านแล้วแต่ กะเพราแท้ ขอนแก่น
 <img src="images/11_kapraotae_leawtae.png" width="500"/>
 
 *อ้างอิงภาพจาก:* [wongnai.com](https://www.wongnai.com/news/laew-tae-kapraow-restaurant-kku)
@@ -190,7 +190,7 @@ Best places for all kinds of food.
 เสาร์ - อาทิตย์ 11:30 - 15:00 17:00 - 21:00 น
 - ทุกวันจะพักเบรค : 15:00-17:00 น.
 
-### 13. ลูกหมูสี่ตัว
+### 14. ลูกหมูสี่ตัว
 <img src="images/LukMuSiTua1.jpg" width="500"/>
 
 <img src="images/LukMuSiTua.jpg" width="500"/>
@@ -211,7 +211,7 @@ Best places for all kinds of food.
 พิกัด : https://goo.gl/maps/7jY8voztdmzYMSGw5
 กังสดาลติดร้าน grim cafe
 
-### 14. นายฮ้อยย่างมันส์
+### 15. นายฮ้อยย่างมันส์
 <img src="images/nh2.jpg" width="500"/>
 <img src="images/nh1.jpg" width="500"/>
 *อ้างอิงรูปภาพจาก :* [นายฮ้อย ย่างมันส์](https://www.facebook.com/นายฮ้อย-ย่างมันส์-102844691558941)
