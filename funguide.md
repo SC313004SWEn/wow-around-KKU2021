@@ -759,7 +759,7 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 -เวลาเปิด-ปิด 07:00น.-20:00น.
 -ร้านกาแฟ อาหาร เครื่องดื่ม เบเกอรี่ บรรยากาศในสวน แบบส่วนตัว และห้องแอร์ ในราคาเบาๆ
 
-### 22. Sri Brown Cafe
+### 23. Sri Brown Cafe
 <img src="images\sri1.jpg" width="500"/>
 <img src="images\sri2.jpg" width="500"/>
 <img src="images\sri3.jpg" width="500"/>
