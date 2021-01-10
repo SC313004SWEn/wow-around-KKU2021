@@ -704,6 +704,21 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - เบอร์ติดต่อ : 095 830 7187
 - เวลาเปิด-ปิด : เปิดทุกวัน 9:00 AM - 6:00 PM ยกเว้นวันพฤหัส
 
+#### 20. บ้านมอเบเกอรี่แอนด์คอฟฟี่ (Ban More Bakery)
+
+<img src="images/BanMore1.jpg" width="500">
+<img src="images/BanMore2.jpg" width="500">
+<img src="images/BanMore3.jpg" width="500">
+<img src="images/BanMore4.jpg" width="500">
+
+*อ้างอิงข้อมูลและภาพจาก:* [wongnai](https://www.wongnai.com/restaurants/119033Ls-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%84%E0%B8%AD%E0%B8%9F%E0%B8%9F%E0%B8%B5%E0%B9%88)
+
+>บ้านมอเบเกอรี่แอนด์คอฟฟี่ (Ban More Bakery)
+ร้านคาเฟ่เล็กๆน่ารัก มีทั้งเบเกอร์รี่โฮมเมด เค้กวันเกิด เครื่องดื่ม กาแฟ อาหารว่าง หลากหลายเมนู
+
+- พิกัด : ถนน คสล. บ้านโนนม่วง ขอนแก่น (ตรงข้ามพิมานคอนโดปาร์ค ทางไปบ้านโนนม่วง หลังมหาวิทยาลัยขอนแก่น)
+- เวลาเปิด-ปิด : 10.00 - 21.30 น.
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
