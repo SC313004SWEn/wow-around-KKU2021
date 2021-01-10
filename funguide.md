@@ -322,9 +322,9 @@ Food Delivery ?
 พิกัด : https://www.google.com/maps/dir/?api=1&destination=16.491521995978%2C102.81067013741&fbclid=IwAR3iyC92VUBCotUd6Xnxm11Rjuhp_SdQ48MLNY0aOUTEOCDdgp1XlLUsT6Y
 
 ## 21. วีที แหนมเนือง สาขามหาวิทยาลัยขอนแก่น By Rosemary House
-<img src="images/Jup01.jpg" width="500"/>
-<img src="images/Jup02.jpg" width="500"/>
-<img src="images/Jup03.jpg" width="500"/>
+<img src="images/VT-1.png" width="500"/>
+<img src="images/VT-2.png" width="500"/>
+<img src="images/VT-3.png" width="500"/>
 *อ้างอิงรูปภาพจาก :*(https://maps.app.goo.gl/1cXdGSBtBLGAZoTD9)
 
 > แหนมเนืองเจ้าดังจากจังหวัดอุดร สาขาประตูเขียว ด้านหลังมหาวิทยาลัยขอนแก่น ร้านบรรยากาศหรูสีขาวน่ารักดี อาหารอร่อย โดยเฉพาะแหนมเนืองสูตรดั่งเดิมของอุดรธานี และอาหารเวียดนามอื่นๆ เช่น กุ้งพันอ้อย  พันหอม แหนมใบมะยม  ปอเปี๊ยะทอด ไส้กรอกอีสาน แหนมซี่โครงทอด และอื่นๆ อีกมากมาย
