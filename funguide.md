@@ -474,6 +474,20 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 >เวลาเปิด-ปิด : 13.00น. - 23.59น.
 >มีบอร์ดเกมส์ให้เล่นมากมาย แอร์เย็นสะบายๆ และค่าบริการที่ถูก
 
+#### 18. นมวัวบิน หลังมข.
+
+<img src="images/nomvubin1.jpg" width="500"/>
+<img src="images/nomvubin2.jpg" width="500"/>
+<img src="images/nomvubin3.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook Nomvubin](https://www.facebook.com/Nomvubin)
+
+>ร้านบรรยากาศดีมี 2 ชั้น สามารถขึ้นไปนั่งชิลด้านบนได้ ราคานักศึกษา 20++ เป็นต้นไป
+
+- ที่ตั้ง : ซอย พิมานคอนโดพาร์ค ขอนแก่น (ติดข้างๆร้านก๋วยเตี๋ยว 13 หลัง มข.)
+- เบอร์ติดต่อ : 081-266-4012
+- เวลาเปิด-ปิด : เปิดทุกวัน 14.00-01.30 น.
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
