@@ -286,9 +286,9 @@ Food Delivery ?
 คำตอบ เพจเฟซบุ๊กของร้าน "ย่างเพราเห่าดง" หรือ อินสตราแกรม @youngprawhowdong
 
 ## 19. สามอ้วนชวนกิน ก๋วยจั๊บอุบล
-<img src="images/jup01.jpg" width="500"/>
-<img src="images/jup02.jpg" width="500"/>
-<img src="images/jup03.jpg" width="500"/>
+<img src="images/Jup01.jpg" width="500"/>
+<img src="images/Jup02.jpg" width="500"/>
+<img src="images/Jup03.jpg" width="500"/>
 *อ้างอิงรูปภาพจาก :*(https://www.facebook.com/samuanubolnoodlesoup/?ref=page_internal)
 
 ก๋วยจั๊บอุบล มาม่า วุ้นเส้น ข้าวต้มเครื่อง เท้าพระลอ ปีกไก่ทอด เกี๊ยวทอด น้ำกระเจี๊ยบ
