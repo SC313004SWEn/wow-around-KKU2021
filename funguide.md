@@ -413,6 +413,19 @@ Chickmax Factory
 โทร : 0640846776
 พิกัด : 30-400 Adunyaram Rd, Tambon Nai Mueang, Amphoe Mueang Khon Kaen, Chang Wat Khon Kaen 40000
 
+### 26.ข้าวมันไก่ มข. (ข้าวมันไก่พี่ยัด)
+<img src="images/kmk1.jpg" width="500"/>
+*ข้อมูลและรูปภาพอ้างอิงจาก : * [wongnai.com](https://kku.world/dknzd)
+
+อาหารจานเดียว
+- ราคาเริ่มต้น 40 บาท
+- เมนู : ไก่ต้ม ไก่ทอด ไก่ย่าง คอหมูทอด ไก่ทอดเกลือ ไก่อบ ไก่ซอสแดง ไก่ตุ๋น หมูตุุ๋น
+- มีน้ำราดหลายแบบ
+
+เวลาเปิดร้าน 18:00 - 22:00 ทุกวัน
+โทร : 097-167-7118
+พิกัด : https://www.google.com/maps/dir//16.4799942,102.8184582/@16.4800064,102.748338,12z?
+
 
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
