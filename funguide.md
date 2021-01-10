@@ -1,4 +1,4 @@
-﻿F# Wow around KKU 2021
+F# Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
 Visiting KKU for the first time? This guide will give you the most enjoyable way to spend your time at KKU through the experience of the locals.
@@ -266,6 +266,16 @@ Food Delivery ?
 ติดตามข่าวสารได้จากที่ไหน ?
 คำตอบ เพจเฟซบุ๊กของร้าน "ย่างเพราเห่าดง" หรือ อินสตราแกรม @youngprawhowdong
 
+### 18. Pietro Garden - เพโทร การ์เด้น
+<img src="images/pietrogarden1.jpg" width="550"/>
+<img src="images/pietrogarden2.jpg" width="550"/>
+
+*อ้างอิงรูปภาพจาก :* [Pietro Garden - เพโทร การ์เด้น](https://www.facebook.com/Pietrogarden/photos/a.400525293386095/2561514003953869)
+- อาหารรสชาติอร่อย
+- คุ้มราคา
+- บรรยากาศดี
+>พิกัดร้าน google map : <https://goo.gl/maps/xCTns3RL2AnsGSeK8> facebook : [Pietro Garden - เพโทร การ์เด้น](https://www.facebook.com/Pietrogarden) 
+>ร้านเปิดทุกวัน เวลา 13.00-22.00 เบอร์ติดต่อ : 089 692 0013
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
