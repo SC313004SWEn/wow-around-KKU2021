@@ -1,7 +1,4 @@
-﻿
-
-
-# Wow around KKU 2021
+﻿# Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
 Visiting KKU for the first time? This guide will give you the most enjoyable way to spend your time at KKU through the experience of the locals.
@@ -136,6 +133,13 @@ Best places for all kinds of food.
 การเดินทาง : 45/95 ซอย อดุลยาราม ขอนแก่น (จากในเมืองเส้นถนนมิตรภาพทางไปอุดร เจอปั๊มเอสโซ่ ให้ขับมาเรื่อยๆ จะเจอร้านมิตรภาพลาบก้อย ขับเลยไปจะเจอซอย ให้เลี้ยวซ้ายประมาณ 100 เมตร ฝั่งกังสดาล มข)
 
 เบอร์โทร : 091 052 7310
+
+#### 10 . โบโบ้เครป&นมสด หลังมอ
+<img src="images/BoboMilkCrepe.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* [FB โบโบ้เครป&นมสด หลังมอ ](https://www.facebook.com/720579054656527/posts/2177554775625607/)
+> เป็นร้านเครปยอดฮิตของชาว มข. ซึ่งมีเมนูที่หลายหลยากให้เลือกสรร จุดเด่นอยู่ที่แป้งทีนำมาใช้ทำ
+> พิกัด : หลังมอ เทศบาลนครขอนแก่น 40000 (หลัง มข. ออกประตู U Center เลี้ยวซ้าย จะเยื้องกับอเมซอน) 
+> เวลาเปิด - ปิด 18.00 - 00.00 น.
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
