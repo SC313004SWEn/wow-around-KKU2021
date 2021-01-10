@@ -314,12 +314,12 @@ Food Delivery ?
  - ต่ำกว่า 100 ซ.ม. ฟรีไม่คิดเงิน
  - ไม่จำกัดเวลา
  
- ** ราคาบุฟเฟต์ รวมเครื่องดื่ม น้ำเปล่า เก๊กฮวย แป๊ปซี่ น้ำส้ม น้ำแดง ลิปตั้น **
+ ** ราคาบุฟเฟต์ รวมเครื่องดื่ม น้ำเปล่า เก๊กฮวย แป๊ปซี่ น้ำส้ม น้ำแดง ลิปตั้น **<br>
  **** ทะเลมี กุ้ง หมึก ปู หอยแมงภู่ หอยแครง หอยบิด หอยตลับ หอยเชล หอยหวาน หอยนางรม ****
 
-เปิดเวลา 16.30 - 22.30 ทุกวัน
-โทร : 085 742 2411
-พิกัด : https://www.google.com/maps/dir/?api=1&destination=16.491521995978%2C102.81067013741&fbclid=IwAR3iyC92VUBCotUd6Xnxm11Rjuhp_SdQ48MLNY0aOUTEOCDdgp1XlLUsT6Y
+เปิดเวลา 16.30 - 22.30 ทุกวัน<br>
+โทร : 085 742 2411<br>
+พิกัด : [MAP] (https://www.google.com/maps/dir/?api=1&destination=16.491521995978%2C102.81067013741&fbclid=IwAR3iyC92VUBCotUd6Xnxm11Rjuhp_SdQ48MLNY0aOUTEOCDdgp1XlLUsT6Y)
 
 ## 21. วีที แหนมเนือง สาขามหาวิทยาลัยขอนแก่น By Rosemary House
 <img src="images/VT-1.png" width="500"/>
