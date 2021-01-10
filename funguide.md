@@ -418,6 +418,20 @@ Love to impress you Instragram followers? Here are the places where you can take
 
 อ้างอิงข้อมูลและภาพจาก: [kku.ac.th](https://th.kku.ac.th/40604/)
 
+#### 4.Columbo Craft Village
+
+<img src="images/Columbo Craft Village.jpg" width="500"/>
+
+อ้างอิงข้อมูลแลภาพจาก: [TRAVEL MTHAI](https://travel.mthai.com/blog/165077.html)
+
+
+>“Coloumbo Craft Village” จังหวัดขอนแก่น เพิ่งก่อตั้งในปี 2017 นี้เอง เกิดจากการรวมตัวของกลุ่มเพื่อน 8 คนที่หลงรักในงานศิลปะ และอยากหาสถานที่ไว้โชว์ไอเดียความคิดสร้างสรรค์ของแต่ละคน จึงมาลงตัวที่ หมู่บ้านเล็กๆ ณ “โคลัมโบ ซอย 1” ข้างมหาวิทยาลัยของแก่น กำเนิดเป็นบ้านหลังเล็กๆ  6 หลัง คือ Do Homemade ร้านกาแฟที่มีการชงแบบสโลว์บาร์, Numgunde (นำกันเด๊ะ) ซึ่งมีกระเป๋า หมวก และของใช้กระจุ๊กกระจิ๊กทำจากผ้าสีสันสดใส บางครั้งก็เปิด Workshop สอนเย็บเสื้อผ้า กระเป๋า ให้กับผู้ที่สนใจด้วย,  YUB shop แกลเลอรี่โชว์ผลงานและขายงาน รวมถึงรับวาดรูปนักท่องเที่ยวที่มาเยี่ยมชมในรูปแบบโปสการ์ดด้วย,  Woodhaus ซึ่งรับออเดอร์งานไม้และผ้าปักที่มีลวดลาย, Clay More ร้านเซรามิคและกระถางต้นไม้ดินเผาสุดน่ารัก, 1309 Handcraft Cuisine ร้านอาหารเรือนกระจก
+
+- Facebook: [Columbo craft village](https://www.facebook.com/Columbocraftvillage/)
+
+- วันเวลาเปิด-ปิด: เปิดทุกวัน ยกเว้นวันอังคาร ตั้งแต่เวลา 08.00 –23.00น. 
+- ที่ตั้ง: 674 บ้านโนนม่วง หมู่ 19 ตำบลศิลา อำเภอเมืองฯ จังหวัดขอนแก่น
+
 ## <a name="freestuff"></a>Free Stuffs :moneybag: :innocent:
 On budget? No problem. There are free stuffs and events for you to enjoy around KKU.
 
