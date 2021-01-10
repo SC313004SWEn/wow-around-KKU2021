@@ -1057,6 +1057,8 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 
 <img src="images/tontann.jpg" width="500"/>
 
+<img src="images/tontann2.jpg" width="500"/>
+
 *อ้างอิงข้อมูลและภาพจาก:* [Paiduaykan](https://www.paiduaykan.com/travel/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5)
 
 > ตลาดต้นตาล หรือโครงการ ต้นตาล กรีน มาร์เก็ต (Ton Tann Green Market) ตั้งอยู่ในตัวเมืองขอนแก่น   ตั้งอยู่บนพื้นที่ 40 ไร่ อยู่ติดถนนมิตรภาพ ภายในมีร้านค้ากว่า 400 ร้าน ท่ามกลางบรรยากาศร่มรื่น แถมมีสโลแกนเก๋ๆ ด้วยว่า “ตลาดต้นตาล ตลาดฝันของคนมีไอเดีย”<br>
