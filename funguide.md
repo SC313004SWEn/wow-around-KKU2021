@@ -1,4 +1,4 @@
-F# Wow around KKU 2021
+﻿F# Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
 Visiting KKU for the first time? This guide will give you the most enjoyable way to spend your time at KKU through the experience of the locals.
@@ -366,7 +366,7 @@ Food Delivery ?
 > **ร้านเปิดให้บริการในเวลา** เวลา 17.00-04.00 น. เบอร์ติดต่อ : 065 334 0346
 
 
-###23. VIP ส้มตำ CLUB กังสดาล ขอนแก่น
+### 23. VIP ส้มตำ CLUB กังสดาล ขอนแก่น
 
 <img src="images/somtum2.jpg" width="500"/>
 
@@ -457,6 +457,19 @@ Chickmax Factory
 เบเกอรี่ทางร้านเราทำเองทุกอย่าง รับประกันความอร่อย ส่วนอาหารมีทั้งจานเดี่ยว ของทานเล่น และเป็นกับ
 สามารถแวะมานั่งชิลทานกาแฟสดหอมๆ ตามใจลูกค้าได้แล้ว มีโปรเช็คอินลด 5% ด้วยนะจ้ะ 
 
+### 29. กากเจียวก๋วยเตี๋ยวเรือ
+
+<img src="images/KakJiew1.jpg"/>
+
+<img src="images/KakJiew2.jpg"/>
+
+ก๋วยเตี๋ยวเรือสูตรเข้มข้นแบบไม่ต้องปรุง
+- เปิดทุกวัน เวลา 10.30 น. - 19.00 น. (ร้านหยุดทุกวันที่ 1 และ 16 ของเดือน)
+- เนื้อหมูและเนื้อวัวที่ตุ๋นมาจนอร่อยติดลิ้น และน้ำซุปสุดเข้มข้นอย่างน้ำตก น้ำใส ต้มยำ และเย็นตาโฟ
+- มีสารพัดเส้น ไม่ว่าจะเป็นเส้นเล็ก เส้นใหญ่ บะหมี่ หมี่ขาว เสิร์ฟพร้อมกับกากหมูที่เจียวใหม่ทุกวัน และเกี๊ยวทอด
+- ร้านมีที่จอดรถสะดวกสบาย บรรยากาศน่านั่ง มีห้องแอร์ฟรี WIFi ฟรี น้ำเปล่าฟรี
+- พิกัด ร้านอยู่หลังมข. ข้างหอพักฮาร์โมนี้เพลส ตรงข้าม Hip karaoke ถ้วยละ 15 บาท
+*อ้างอิงข้อมูลและภาพจาก:* [กากเจียวก๋วยเตี๋ยวเรือ](https://www.facebook.com/กากเจียวก๋วยเตี๋ยวเรือ-668989989974113/)
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
