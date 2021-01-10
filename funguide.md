@@ -211,6 +211,22 @@ Best places for all kinds of food.
 พิกัด : https://goo.gl/maps/7jY8voztdmzYMSGw5
 กังสดาลติดร้าน grim cafe
 
+### 14. นายฮ้อยย่างมันส์
+<img src="images/nh2.jpg" width="500"/>
+<img src="images/nh1.jpg" width="500"/>
+*อ้างอิงรูปภาพจาก :* [นายฮ้อย ย่างมันส์](https://www.facebook.com/นายฮ้อย-ย่างมันส์-102844691558941)
+
+นายฮ้อย ย่างมันส์
+- ราคาเริ่มต้น 199.-
+- หมู ไก่ กุ้ง แซลม่อน ปูม้า โคขุนเกรดเอ
+- ยำปูม้า หอย 
+- น้ำดื่มรีฟิว8รสชาติ
+
+
+เปิด 16.00-22.00 ทุกวัน
+โทร : 095 728 8278
+พิกัด : https://goo.gl/maps/W5NpEfnF5G4ViH2n7
+
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
