@@ -496,25 +496,6 @@ Chickmax Factory
 - ที่ตั้งของร้านอยู่ที่ 190/16 หมู่ 16 ถ.ศรีมารัตน์ ขอนแก่น (กังสดาล มหาวิทยาลัยขอนแก่น ข้างร้าน sweet gallery)
 
 ขอบคุณข้อมูลและรูปภาพจาก เว็บไซต์ wongnai[https://www.wongnai.com/restaurants/300788Rv-โอชิเน-ขอนแก่น]
-
-### 32. Chesse day - every day
-<img src="images/chessesday.jpg" width="500"/>
-
-อ้างอิงรูปภาพจาก : [Chesse day]( https://www.facebook.com/cheesedaykhonkaen)
-
-Chesse day - every day ปิ้งย่างฟีลเกาหลี 
-- ราคาเพียง 239.-  รวมน้ำ
-- จำกัดเวลา 2 ชั่วโมง
-- มีอาหารเกาหลี กิมจิ ไชเท้าดอง ไก่ทอดซอสเกาหลี หอมทอด รวมถึงผักสด
-- ซีฟู้ดมีหมึก กุ้ง 
-- เนื้อจะเป็นสามชั้นและสันคอหมูหมักสูตรต่างๆ  
-- ของหวาน จะเป็นไอติมอีกหลายรสชาติให้เลือก อาทิเช่น รสมะนาว รสวนิลา และอื่นๆเป็นต้น 
-
-- เปิด 16.00-22.00 ทุกวัน
-- โทร : 061-639-6459
-พิกัด : https://goo.gl/maps/MxyW4S7StTt53rVh7
-ทางไปกะขม
-
  
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
@@ -778,19 +759,18 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 -เวลาเปิด-ปิด 07:00น.-20:00น.
 -ร้านกาแฟ อาหาร เครื่องดื่ม เบเกอรี่ บรรยากาศในสวน แบบส่วนตัว และห้องแอร์ ในราคาเบาๆ
 
-#### 23. พร้อมมิตรคาเฟ่ (Promise cafe & bistro)
+### 23. Sri Brown Cafe
+<img src="images\sri1.jpg" width="500"/>
+<img src="images\sri2.jpg" width="500"/>
+<img src="images\sri3.jpg" width="500"/>
 
-<img src="images/PromiseCafe1.jpg" width="500"/>
-<img src="images/PromiseCafe2.jpg" width="500"/>
-<img src="images/PromiseCafe3.jpg" width="500"/>
+*อ้างอิงภาพจาก:*[http://foodiesjournie.com/] (http://foodiesjournie.com/sri-brown-cafe/)
 
-*อ้างอิงภาพจาก:* [Facebook พร้อมมิตร-Promise cafe & bistro](https://www.facebook.com/%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-Promise-cafe-bistro-105553121015552/?ref=page_internal)
+ร้านเปิดทุกวันตั้งแต่ 7:00 – 23:00 น. มีทั้งอาหาร ขนม เครื่องดื่ม ปริมาณคุ้มค่าดีเมื่อเทียบกับราคา แถมบรรยากาศก็ดี
+Facebook: Sri Brown Cafe’ Khon Kaen
+Address: 43/30 ถนน อดุลยาราม ตำบล ในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000
+Tel: 091 051 9439
 
->คาเฟ่อาหารและเครื่องดื่ม นั่งชิลได้ บรรยากาศดี
-
-- ที่ตั้ง : อยู่ติดกับร้าน Cocoa More (โกโก้มอร์) สาขา 2, ใกล้กับหอมัณฑนาปาร์ค หลังม.ขอนแก่น
-- เบอร์ติดต่อ : 093 092 8860
-- เวลาเปิด-ปิด : เปิดวันอังคาร-วันอาทิตย์ เวลา 12:00 - 23:00
 
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
@@ -1052,19 +1032,6 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 
 > ตลาด62บล็อก ขอนแก่นกินเพลิน เดินชิลล์ ที่ตลาด62 บล็อกขอนแก่น การช้อปปิ้งและค้าปลีก ซึ่งมีร้านค้ามากกว่า150ร้าน<br>
 > พิกัด : 157/89-91 Soi Maha Witthayalai, Mueang Khon Kaen District, Khon Kaen 40000
-
-### 5. ตลาดต้นตาล
-
-<img src="images/tontann.jpg" width="500"/>
-
-*อ้างอิงข้อมูลและภาพจาก:* [Paiduaykan](https://www.paiduaykan.com/travel/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5)
-
-> ตลาดต้นตาล หรือโครงการ ต้นตาล กรีน มาร์เก็ต (Ton Tann Green Market) ตั้งอยู่ในตัวเมืองขอนแก่น   ตั้งอยู่บนพื้นที่ 40 ไร่ อยู่ติดถนนมิตรภาพ ภายในมีร้านค้ากว่า 400 ร้าน ท่ามกลางบรรยากาศร่มรื่น แถมมีสโลแกนเก๋ๆ ด้วยว่า “ตลาดต้นตาล ตลาดฝันของคนมีไอเดีย”<br>
-> พิกัด : ตลาดต้นตาล (Ton Tann Green Market) ตั้งอยู่ติดริมถนนมิตรภาพ และบ้านกอก ซอย 8, 10, 12 มีพื้นที่จอดรถมากกว่า 1,500 คัน<br>
-
-> วัน-เวลาให้บริการ : เปิดทุกวัน 16.00 -23.00 น.<br>
-
-> สอบถามเพิ่มเติม : 0-4300-0177, 08-3281-5351
 
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
