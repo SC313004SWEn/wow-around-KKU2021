@@ -121,6 +121,20 @@ Best places for all kinds of food.
 
 เวลาเปิดให้บริการ : 08:00 - 20:00 น.
 
+### 9. Haru Hana : Japanese Cafe
+<img src="images/Haruhana.jpg" width="500"/>
+
+*อ้างอิงภาพจาก :* [Facebook page : Haru Hana : Japanese Cafe](https://www.facebook.com/haruhanacafe.kkc/)
+
+- ร้านอาหารญี่ปุ่นในแบบ Modern Japanese Sushi Cafe
+- นำเสนออาหารญี่ปุ่นสไตล์นิวยอร์คสุดชิค ที่เน้นเครื่องปรุง และพิถีพิถันในการทำ จนได้รสชาติที่เป็นเอกลักษณ์ในสไตล์
+- มีของหวานสไตล์ญี่ปุ่นอีกหลายเมนู
+- เหมาะสำหรับคนที่ชื่นชอบอาหารญสไตล์ี่ปุ่น 
+
+เวลาเปิดร้าน : อังคาร - อาทิตย์	10:00 - 20:00
+การเดินทาง : 45/95 ซอย อดุลยาราม ขอนแก่น (จากในเมืองเส้นถนนมิตรภาพทางไปอุดร เจอปั๊มเอสโซ่ ให้ขับมาเรื่อยๆ จะเจอร้านมิตรภาพลาบก้อย ขับเลยไปจะเจอซอย ให้เลี้ยวซ้ายประมาณ 100 เมตร ฝั่งกังสดาล มข)
+เบอร์โทร : 091 052 7310
+
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
