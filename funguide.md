@@ -446,7 +446,7 @@ Chickmax Factory
 
 
 
-##28. Galactose (กาแล็กโทส) 
+### 28. Galactose (กาแล็กโทส) 
 <img src="images/test1.jpg" width="500"/>
 <img src="images/test2.jpg" width="500"/>
 <img src="images/test3.jpg" width="500"/>
