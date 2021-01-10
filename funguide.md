@@ -367,7 +367,7 @@ Food Delivery ?
 
 
 ###23. VIP ส้มตำ CLUB กังสดาล ขอนแก่น
->>>>>>> Khyng
+
 <img src="images/somtum2.jpg" width="500"/>
 
 *อ้างอิงข้อมูลและภาพจาก:* [VIP ส้มตำ CLUB กังสดาล ขอนแก่น](https://www.facebook.com/VIP-%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B9%8D%E0%B8%B2-club-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A5-%E0%B8%A1%E0%B8%82-220810648798553/)
