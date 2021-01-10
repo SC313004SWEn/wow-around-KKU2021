@@ -190,28 +190,7 @@ Best places for all kinds of food.
 เสาร์ - อาทิตย์ 11:30 - 15:00 17:00 - 21:00 น
 - ทุกวันจะพักเบรค : 15:00-17:00 น.
 
-### 14. ลูกหมูสี่ตัว
-<img src="images/LukMuSiTua1.jpg" width="500"/>
-
-<img src="images/LukMuSiTua.jpg" width="500"/>
-
-
-*อ้างอิงรูปภาพจาก :* [ลูกหมูสี่ตัว]( https://www.facebook.com/ลูกหมูสี่ตัว-Korean-BBQ-100370624772851)
-
-ลูกหมูสี่ตัว ปิ้งย่างฟีลเกาหลี 
-- ราคาเพียง 234.-  
-- ไม่จำกัดเวลา
-- มีอาหารเกาหลี กิมจิ ไชเท้าดอง ไก่ทอดซอสเกาหลี หอมทอด รวมถึงผักสด
-- ซีฟู้ดมีหมึก กุ้ง 
-- เนื้อจะเป็นสามชั้นและสันคอหมูหมักสูตรต่างๆ  
-- ของหวาน จะเป็นขนมถ้วย และไอติมอีกหลายรสชาติให้เลือก อาทิเช่น รสมะนาว รสวนิลา และอื่นๆเป็นต้น 
-
-เปิด 12.00-22.00 ทุกวัน
-โทร : 095 391 3731
-พิกัด : https://goo.gl/maps/7jY8voztdmzYMSGw5
-กังสดาลติดร้าน grim cafe
-
-### 15. นายฮ้อยย่างมันส์
+### 16. นายฮ้อยย่างมันส์
 <img src="images/nh2.jpg" width="500"/>
 <img src="images/nh1.jpg" width="500"/>
 *อ้างอิงรูปภาพจาก :* [นายฮ้อย ย่างมันส์](https://www.facebook.com/นายฮ้อย-ย่างมันส์-102844691558941)
@@ -227,7 +206,7 @@ Best places for all kinds of food.
 โทร : 095 728 8278
 พิกัด : https://goo.gl/maps/W5NpEfnF5G4ViH2n7
 
-### 16. ตุงตุงเฮ 뚱뚱해
+### 17. ตุงตุงเฮ 뚱뚱해
 <img src="images/Tung_1.jpg" width="500"/>
 <img src="images/Tung_2.jpg" width="500"/>
 <img src="images/Tung_3.jpg" width="500"/>
@@ -237,7 +216,7 @@ Best places for all kinds of food.
 >อาหารสตรีทเกาหลี ปูไข่ดองซีอิ้วเกาหลี เต้นท์ติดแอร์ เปิด 17:00-24:00 (ครัวปิด 23:00 นั่งดื่มต่อได้ค่ะ) ร้านหยุดทุกวันพุธ
 พิกัด : กังสดาล มข ขอนแก่น (เต้นท์สีแดง ตรงข้ามสเต็กรอยยิ้ม)
 
-### 17. Good แหนมเนือง (กู๊ดแหนมเนือง)
+### 18. Good แหนมเนือง (กู๊ดแหนมเนือง)
 <img src="images/nam.jpg" width="500"/>
 *รูปภาพจากคุณ* [The Popino](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fppraephotograp1%2Fstatus%2F1055809350319534081&psig=AOvVaw0y67kpxblFyFkw6HEETTs8&ust=1610364336014000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiK5-Sgke4CFQAAAAAdAAAAABAD)
 
@@ -253,7 +232,7 @@ Best places for all kinds of food.
 
 *ข้อมูลจาก* [Wongnai](https://www.wongnai.com/restaurants/278625vP-good-%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%87)
 
-### 18. ย่างเพราเห่าดง
+### 19. ย่างเพราเห่าดง
 <img src="images/YoungPrawHowDong.jpg" width="500"/>
 *อ้างอิงรูปภาพจาก :* [ย่างเพราเห่าดง](https://www.facebook.com/youngprawhowdong)
 
