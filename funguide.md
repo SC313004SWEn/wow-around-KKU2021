@@ -719,6 +719,18 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 - พิกัด : ถนน คสล. บ้านโนนม่วง ขอนแก่น (ตรงข้ามพิมานคอนโดปาร์ค ทางไปบ้านโนนม่วง หลังมหาวิทยาลัยขอนแก่น)
 - เวลาเปิด-ปิด : 10.00 - 21.30 น.
 
+#### 21. Mali Cakery
+<img src="images/Mali_cakery.jpg" width="500"/>
+<img src="images/Mali_cakery2.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook Mali Cakery](https://www.facebook.com/malicakeryhomemade)
+
+>ร้าน Mali Cakery Homemade เริ่มจากก้าวเล็ก ๆ ที่อยากมีครัวขนม เป็นพื้นที่สำหรับคนรักการทานขนมเค้กมาพบกัน เลยลงตัวที่การนำบ้านของตัวเองมาดัดแปลงเป็นร้านและครัวขนม เพื่อสร้างสถานที่ที่มีแต่ความอบอุ่น บรรยากาศเหมือนมาทานขนมบ้านเพื่อน มีกลิ่นหอมทั้งขนมและดอกไม้สดอบอวลอยู่ตลอดเวลา
+
+- ที่ตั้ง 488, ซอยมิตรภาพ 15,เมืองขอนแก่น
+- เบอร์ติดต่อ : 090 698 9900
+- เวลาเปิด-ปิด : เปิดบริการทุกวัน 10:30 - 19:00 น.
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
