@@ -759,6 +759,20 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 -เวลาเปิด-ปิด 07:00น.-20:00น.
 -ร้านกาแฟ อาหาร เครื่องดื่ม เบเกอรี่ บรรยากาศในสวน แบบส่วนตัว และห้องแอร์ ในราคาเบาๆ
 
+#### 23. พร้อมมิตรคาเฟ่ (Promise cafe & bistro)
+
+<img src="images/PromiseCafe1.jpg" width="500"/>
+<img src="images/PromiseCafe2.jpg" width="500"/>
+<img src="images/PromiseCafe3.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [Facebook พร้อมมิตร-Promise cafe & bistro](https://www.facebook.com/%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-Promise-cafe-bistro-105553121015552/?ref=page_internal)
+
+>คาเฟ่อาหารและเครื่องดื่ม นั่งชิลได้ บรรยากาศดี
+
+- ที่ตั้ง : อยู่ติดกับร้าน Cocoa More (โกโก้มอร์) สาขา 2, ใกล้กับหอมัณฑนาปาร์ค หลังม.ขอนแก่น
+- เบอร์ติดต่อ : 093 092 8860
+- เวลาเปิด-ปิด : เปิดวันอังคาร-วันอาทิตย์ เวลา 12:00 - 23:00
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
