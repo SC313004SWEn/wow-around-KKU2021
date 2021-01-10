@@ -1034,6 +1034,20 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 > ตลาด62บล็อก ขอนแก่นกินเพลิน เดินชิลล์ ที่ตลาด62 บล็อกขอนแก่น การช้อปปิ้งและค้าปลีก ซึ่งมีร้านค้ามากกว่า150ร้าน<br>
 > พิกัด : 157/89-91 Soi Maha Witthayalai, Mueang Khon Kaen District, Khon Kaen 40000
 
+### 5. ตลาดต้นตาล
+
+<img src="images/tontann.jpg" width="500"/>
+<img src="images/tontann.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [Paiduaykan](https://www.paiduaykan.com/travel/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5)
+
+> ตลาดต้นตาล หรือโครงการ ต้นตาล กรีน มาร์เก็ต (Ton Tann Green Market) ตั้งอยู่ในตัวเมืองขอนแก่น   ตั้งอยู่บนพื้นที่ 40 ไร่ อยู่ติดถนนมิตรภาพ ภายในมีร้านค้ากว่า 400 ร้าน ท่ามกลางบรรยากาศร่มรื่น แถมมีสโลแกนเก๋ๆ ด้วยว่า “ตลาดต้นตาล ตลาดฝันของคนมีไอเดีย”<br>
+> พิกัด : ตลาดต้นตาล (Ton Tann Green Market) ตั้งอยู่ติดริมถนนมิตรภาพ และบ้านกอก ซอย 8, 10, 12 มีพื้นที่จอดรถมากกว่า 1,500 คัน<br>
+
+> วัน-เวลาให้บริการ : เปิดทุกวัน 16.00 -23.00 น.<br>
+
+> สอบถามเพิ่มเติม : 0-4300-0177, 08-3281-5351
+
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
 
