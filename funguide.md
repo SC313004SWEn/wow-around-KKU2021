@@ -537,17 +537,13 @@ Chesse day - every day ปิ้งย่างฟีลเกาหลี
 <img src="images/MEATWAY_2.jpg" width="500"/>
 *อ้างอิงภาพจาก:* [MEAT WAY fanpage](https://www.facebook.com/MWKhonkaen)
 
-ประเภทที่ให้บริการ
-- ร้านอาหาร 
+ประเภทที่ให้บริการ  ร้านอาหาร 
 - นำเสนอข้าวหน้า หมู, เนื้อวัว
 - เหมาะสำหรับคนที่ชอบข้าวหน้าเนื้อ
 - อิ่มอร่อย คุ้มราคา
 - สามารถสั่งเดลิเวอรี่
-***พิกัด***
-หลังมอ ติดกับร้านปั่นเพื่อเมีย
-เปิดทุกวัน 16.30 - 22.00 น
-โทรสั่ง 080-417-5976
-หรือที่ facebook fanpage
+- พิกัด หลังมอ ติดกับร้านปั่นเพื่อเมีย เปิดทุกวัน 16.30 - 22.00 น 
+- สามารถสั่งเดลิเวอรี่โทรสั่ง 080-417-5976 หรือที่ facebook fanpage
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
