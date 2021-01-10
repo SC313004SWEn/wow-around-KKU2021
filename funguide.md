@@ -376,6 +376,12 @@ Food Delivery ?
 พิกัด : 90/586 หมู่4 ถนน ชีท่าขอน ต.ในเมือง อ.เมืองขอนแก่น เทศบาลนครขอนแก่น 40000
 เบอร์โทร : 096 332 2363
 
+### 24. ย่างเนย ม.ขอนแก่น
+<img src="images/24yangnoey.jpg" width="500"/>
+
+*อ้างอิงภาพจาก :* [Facebook page : ย่างเนย ม.ขอนแก่น](https://www.facebook.com/YangnoeyKKU)
+
+ย่างเนย คนละ 199 บาท
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
