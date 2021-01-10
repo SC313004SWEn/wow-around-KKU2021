@@ -227,6 +227,16 @@ Best places for all kinds of food.
 โทร : 095 728 8278
 พิกัด : https://goo.gl/maps/W5NpEfnF5G4ViH2n7
 
+### 16. ตุงตุงเฮ 뚱뚱해
+<img src="images/Tung_1.jpg" width="500"/>
+<img src="images/Tung_2.jpg" width="500"/>
+<img src="images/Tung_3.jpg" width="500"/>
+
+*อ้างอิงข้อมูลและภาพจาก:* [tungtunghaekku](https://www.facebook.com/tungtunghaekku/)
+
+>อาหารสตรีทเกาหลี ปูไข่ดองซีอิ้วเกาหลี เต้นท์ติดแอร์ เปิด 17:00-24:00 (ครัวปิด 23:00 นั่งดื่มต่อได้ค่ะ) ร้านหยุดทุกวันพุธ
+พิกัด : กังสดาล มข ขอนแก่น (เต้นท์สีแดง ตรงข้ามสเต็กรอยยิ้ม)
+
 
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
