@@ -472,6 +472,13 @@ Chickmax Factory
 
 *อ้างอิงข้อมูลและภาพจาก:* [กากเจียวก๋วยเตี๋ยวเรือ](https://www.facebook.com/กากเจียวก๋วยเตี๋ยวเรือ-668989989974113/)
 
+### 30.ตี 5 Breakfast
+<img src="images/tee5bearkfast-2.jpg" width="500"/>
+*ข้อมูลและรูปภาพอ้างอิงจาก : * [wongnai.com](https://www.wongnai.com/restaurants/14885Bw-%E0%B8%95%E0%B8%B5-5-breakfast?ref=ct)
+
+อาหารเวียดนาม อาหารเช้า
+เวลาเปิดร้าน 7:00 - 14:00 
+โทร : 065-143-4999
 ## <a name="cafe"></a>Cafe :coffee: :cake: :tea:
 Here are the best places where you can enjoy your a cup of coffee and delicious desserts.
 #### 1. Coffee Der Lar คอฟฟี่เด้อหล่า - มหาวิทยาลัยขอนแก่น
