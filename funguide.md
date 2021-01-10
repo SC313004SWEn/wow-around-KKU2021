@@ -931,7 +931,12 @@ Here are sporting locations and activities for those who like to sweat.
 
 *อ้างอิงข้อมูลและภาพจาก:* [สระว่ายน้ำชนเห็นชอบ] (www.facebook.com/สระว่ายน้ำชนเห็นชอบ-มหาวิทยาลัยขอนแก่น-1443015189069119/)
 
+### 5. สนามบาส 4 สนาม
 
+<img src="images/4sanam.jpg" width="500"/>
+ใช้ในการแข่งขันกีฬาบาสเกตบอลและใช้ในการออกกำลังกายและทำการฝึกซ้อม
+
+*อ้างอิงข้อมูลและภาพจาก:* [ชมรมบาส 4 สนาม] (https://www.facebook.com/photo?fbid=3372862339460517&set=g.151340111589125)
 
 ## <a name="shopping"></a> Shopping :dress: :gift:
 Looking for souvenirs or buying the essestials? There are many places for you to go. 
