@@ -434,6 +434,14 @@ Chickmax Factory
 โทร : 097-167-7118
 พิกัด : https://www.google.com/maps/dir//16.4799942,102.8184582/@16.4800064,102.748338,12z?
 
+### 27. รอยยิ้ม สเต็ก&นมสด
+<img src="images/royyim.jpg" width="500"/>
+
+
+
+*อ้างอิงข้อมูลและรูปภาพจาก :* [รอยยิ้ม สเต็ก&นมสด](https://www.facebook.com/roiyim)
+
+คนละ 199
 
 >>>>>>> b62c90629703eb3a3e77125966a8bfb36961e5ec
 
