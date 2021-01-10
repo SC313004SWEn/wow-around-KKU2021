@@ -1,4 +1,4 @@
-﻿# Wow around KKU 2021
+﻿F# Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
 Visiting KKU for the first time? This guide will give you the most enjoyable way to spend your time at KKU through the experience of the locals.
@@ -474,6 +474,14 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 >  เป็นร้านคาเฟ่ที่ตั้งอยู่บริเวณฝั่งกังสดาล มหาวิทยาลัยขอนแก่น ใกล้ๆตลาด 62 บล็อค 
 >  มีทั้งอาหารเครื่องดื่มรวมทั้งขนมปังที่แสนอร่อย อีกอย่างร้านนี้เข้าร่วมโครงการคนล่ะครึ่งอีกด้วย 
 
+#### 17. Board Game Everyday Cafe
+
+<img src = "images/BoardGameEverydayCafe.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* [Facebook Board Game Everyday Cafe](https://www.facebook.com/BoardGameEverydayCafe/)
+
+>พิกัด : อยู่หน้า โรงอาหาร U-Center อยู่ระหว่างร้าน 7-eleven และ ร้านเม้งทุกอย่าง
+>เวลาเปิด-ปิด : 13.00น. - 23.59น.
+>มีบอร์ดเกมส์ให้เล่นมากมาย แอร์เย็นสะบายๆ และค่าบริการที่ถูก
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
