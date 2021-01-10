@@ -452,6 +452,19 @@ Google Map : https://goo.gl/maps/Szbk2paCynN8QeU68 Facebook Fan Page : [Kojimori
 > เวลาเปิด-ปิด : 24 ชั่วโมง
 > มีบริการเดลิเวอรี่และนั่งทานที่ร้าน บรรยากาศดี เหมาะกับนั่งทำงานและอ่านหนังสือ
 
+#### 15. Playground cafe'
+> Playground cafe' คาเฟ่ดีๆที่คุณไม่ควรพลาด ที่มาพร้อมกับบรรยากาศร้านสวยๆ พร้อมกับอาหารและเครื่องดื่มมากมายที่แสนอร่อย เหมาะกับการนั่งอ่านหนังสือ และนั่งเล่น 
+*อ้างอิงข้อมูลและภาพจาก: (https://www.facebook.com/Playground-cafe-103426907942197/photos/?ref=page)
+
+<img src="images/PlaygroundCafe_1" width="500"/>
+<img src="images/PlaygroundCafe_2" width="500"/>
+
+เปิดให้บริการ : 10.00 - 22.00 น. 
+โทรศัพท์ : 085 609 3853
+พิกัด : หลังมอ ใกล้หอพัก ดิออโรร่า 
+Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9) 
+การชำระเงิน : รับเงินสด , QR-Payment
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
