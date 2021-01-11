@@ -845,11 +845,25 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 
 *อ้างอิงภาพจาก:* [http://foodiesjournie.com](http://foodiesjournie.com/sri-brown-cafe/)
 
-านเปิดทุกวันตั้งแต่ 7:00 – 23:00 น. มีทั้งอาหาร ขนม เครื่องดื่ม ปริมาณคุ้มค่าดีเมื่อเทียบกับราคา แถมบรรยากาศก็ดี
+ร้านเปิดทุกวันตั้งแต่ 7:00 – 23:00 น. มีทั้งอาหาร ขนม เครื่องดื่ม ปริมาณคุ้มค่าดีเมื่อเทียบกับราคา แถมบรรยากาศก็ดี
 
 Facebook: Sri Brown Cafe’ Khon Kaen
 Address: 43/30 ถนน อดุลยาราม ตำบล ในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000
 Tel: 091 051 9439
+
+### 26. Dakota cafe & co-working space 
+
+<img src="images/dakota1.jpg" width="500"/>
+<img src="images/dakota2.jpg" width="500"/>
+<img src="images/dakota3.jpg" width="500"/>
+*อ้างอิงภาพจาก:* [Dakota cafe & co-working space](https://www.facebook.com/dakotakhonkaen/photos/?ref=page_internal)
+
+>ร้านมี 2 ชั้น เป็นร้านที่มีครบทั้งอาหารและเครื่องดื่ม รสชาติดีทั้งอาหารและเครื่องดื่ม มีโต๊ะมีปลั๊กไฟให้บริการสำหรับลูกค้า เพราะมีพื้นที่ให้ลูกค้า co-working space บรรยากาศน่านั่ง เหมาะกับการติว หรือทำงาน
+
+	ร้านเปิดทุกวัน เวลา 11.00-23.59 น. มีอาหารคลีน ขนม เค้ก เครื่องดื่ม 
+	พิกัด ร้านหลังม.ข ฝั่งโนนม่วง หลังหอชาย ถนนหน้ายูพลาซ่า(ยูเซ็นเตอร์)
+	เบอร์โทร 092 263 0983
+
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
