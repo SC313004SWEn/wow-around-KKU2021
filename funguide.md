@@ -896,6 +896,20 @@ Tinn cafe
 พิกัด : 457 หมู่ 19 ถนนโคลัมโบ ซอย2 ต.ศิลา อำเภอเมือง จังหวัดขอนแก่น 40000
 Facebook : Tinn cafe'
 
+### 28.Tora Dessert Cafe at Khon Kaen
+<img src="images/tora1.jpg" width="500"/>
+<img src="images/tora2.jpg" width="500"/>
+<img src="images/tora3.jpg" width="500"/>
+<img src="images/tora4.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:*  [Tora Dessert Cafe at Khonkaen ](https://www.facebook.com/torakhonkaen/?ref=page_internal)
+
+ร้านเปิดตั้งแต่ 11.30-21.30 น. ร้านขนมหวานรูปแบบใหม่สไตล์ญี่ปุ่น เกาหลีและจีน เมนูของหวานและเครื่องดื่ม หลากหลายเมนู จากทาง " Tora Dessert Cafe at Khon Kaen "
+ของหวานก็อร่อย เครื่องดื่มก็ชื่นใจ 
+พลาดไม่ได้แล้วล่ะนาทีนี้ 
+Facebook: Tora Dessert Cafe at Khonkaen
+Address:  Soi Mittraphap 7, Tambon Nai Mueang, Amphoe Mueang Khon Kaen, Chang Wat Khon Kaen 40000
+Tel: 043 424 896
 
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
