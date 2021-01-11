@@ -837,6 +837,20 @@ Google Map : https://goo.gl/maps/VAjqgKFCtE53V5sx9)
 -เวลาเปิด 09.00-22.00
 -โทร 0951692231
 
+#### 25. Sri Brown Cafe’ Khon Kaen สาขากังสดาน
+
+<img src="images/sri1.jpg" width="500"/>
+<img src="images/sri2.jpg" width="500"/>
+<img src="images/sri3.jpg" width="500"/>
+
+*อ้างอิงภาพจาก:* [http://foodiesjournie.com](http://foodiesjournie.com/sri-brown-cafe/)
+
+านเปิดทุกวันตั้งแต่ 7:00 – 23:00 น. มีทั้งอาหาร ขนม เครื่องดื่ม ปริมาณคุ้มค่าดีเมื่อเทียบกับราคา แถมบรรยากาศก็ดี
+
+Facebook: Sri Brown Cafe’ Khon Kaen
+Address: 43/30 ถนน อดุลยาราม ตำบล ในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000
+Tel: 091 051 9439
+
 ## <a name="selfie"></a>Selfie/Check-in Spots  :camera: :sunflower:
 Love to impress you Instragram followers? Here are the places where you can take stunning pictures.
 #### 1. รั้วส้ม อาดารวิทยวิภาส คณะวิทยาศาสตร์
