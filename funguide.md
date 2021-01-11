@@ -1,4 +1,4 @@
-﻿F# Wow around KKU 2021
+F# Wow around KKU 2021
 ## The ultimate guide to cool things to see and fun stuffs to do around Khon Kaen University
 
 Visiting KKU for the first time? This guide will give you the most enjoyable way to spend your time at KKU through the experience of the locals.
@@ -1209,6 +1209,12 @@ Did you know that KKU has many parks and wild life? Let's get out there for fres
 	-6เดือน 2890 บาท
 	-1ปี 4990 บาท
 
+### 7.ไก่ย่างปรีชา
+<img src="images/Chicken like_1.jpg" width="500"/>
+<img src="images/Chicken like_2.jpg" width="500"/>
+<img src="images/Chicken like_3.jpg" width="500"/>
 
+*อ้างอิงภาพจากhttps://esan108.com/%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2-%E0%B8%A1%E0%B8%82.html
+>ไก่ย่างปรีชา มข เป็นร้านอาหาร ที่ได้รับความนิยมอย่างมาก เป็นต้นตำรับความอร่อย สูตรเด็ดไก่ย่างขอนแก่นเลยก็ว่าได้ ที่ขอนแก่นขึ้นชื่ออยู่แล้ว เป็นจังหวัดที่มีอาหารอร่อยๆมากมาย เช่นเดียวกันร้าน ไก่ย่าง ปรีชา มข ก็มีความอร่อยเช่นเดียวกัน โดยในตอนนี้ถ้าหากพูดถึงปรีชา เราก็จะต้องนึกถึง หวย 30 ล้านแน่นอนใช่ไหมครับ แต่ว่า ไก่ย่าง ปรีชา มข ไม่ได้เกี่ยวข้องกับ หวย 30 ล้านแต่อย่างใด มันเป็นร้านอาหารอีสานที่ได้รับความนิยม และอร่อยอย่างมาก
 
 
