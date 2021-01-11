@@ -1180,6 +1180,18 @@ Looking for souvenirs or buying the essestials? There are many places for you to
 
 > สอบถามเพิ่มเติม : 0-4300-0177, 08-3281-5351
 
+### 5. นัดพบเครื่องเขียนหลัง มข.
+
+<img src="images/natpop.jpg" width="500"/>
+*อ้างอิงข้อมูลและภาพจาก:* [Facebook นัดพบเครื่องเขียนหลัง มข.](https://th-th.facebook.com/pages/category/Office-Equipment-Store/%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87-%E0%B8%A1%E0%B8%82-133348777097840/)
+
+> ร้านเครื่องเขียนเล็กๆ น่ารักๆ กับน้องเหมียวตัวอ้วน<br>
+
+> วัน-เวลาให้บริการ : เปิดทุกวัน 10:00 - 22:30<br>
+
+> เบอร์ติดต่อ 091 414 5092<br>
+
+
 ## <a name="park"></a>Nature and Parks :cow: :evergreen_tree: :evergreen_tree: :horse:
 Did you know that KKU has many parks and wild life? Let's get out there for fresh air and some fun.
 
